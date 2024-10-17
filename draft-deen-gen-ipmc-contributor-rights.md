@@ -10,6 +10,7 @@ pi: [toc, sortrefts, symrefs]
 
 docname: draft-deen-gen-impc-contributor-rights-latest
 
+submissionType: IETF
 
 area: Heneral
 workgroup: gen

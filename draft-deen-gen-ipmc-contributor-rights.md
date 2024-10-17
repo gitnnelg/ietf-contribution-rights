@@ -4,8 +4,6 @@ title: "Rights Contributors Provide to IETF Intellectual Property Management"
 abbrev: "IPMCR"
 category: info
 
-obsoletes: 3978, 5748
-updates: 5378
 
 stand_alone: yes
 pi: [toc, sortrefts, symrefs]

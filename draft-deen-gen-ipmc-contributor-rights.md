@@ -25,7 +25,7 @@ venue:
   mail: WG@example.com
   arch: https://example.com/WG
   github: gitnnelg/ietf-contribution-rights
-  latest: https://gitnnelg.github.io/ieft-contirbution-rights/draft-deen-gen-impc-contirbutor-rights.html
+  latest: https://gitnnelg.github.io/ieft-contribution-rights/draft-deen-gen-impc-contributor-rights.html
 
 author:
  -

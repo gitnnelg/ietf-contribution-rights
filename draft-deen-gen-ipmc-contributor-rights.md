@@ -136,7 +136,7 @@ any of the settings described in 1(a) above.
 
 h. "IETF Trust": a trust established under the laws of the Commonwealth
 of Virginia, USA, in order to hold and administer intellectual property
-rights for the benefit of the IETF.  The IETF Intellectual Property 
+rights for the benefit of the IETF.  The IETF Intellectual Property
 Management Corporation is the successor organization to the IETF Trust.
 
 i. "Internet-Draft": temporary documents used in the IETF Standards

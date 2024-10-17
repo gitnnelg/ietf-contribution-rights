@@ -68,7 +68,7 @@ improvements.  Distribution of this memo is unlimited.
 
 # IETF Trust Restructuring
 
-The IETF Trust was a trust established in 2005 under the laws of the Commonwealth of Viginia, USA, in order to holds and adminster intellectual property rights for the benefit of the IETF.  
+The IETF Trust was a trust established in 2005 under the laws of the Commonwealth of Viginia, USA, in order to holds and adminster intellectual property rights for the benefit of the IETF.
 
 In 2023 after a community consultstion, the IETF Trustees decided to restructured the IETF Trust into a Delaware corporation which would take over from the IETF Trust and continue to provide the same function as the IETF Trust had since 2005.
 
@@ -76,7 +76,7 @@ In 2023 after a community consultstion, the IETF Trustees decided to restructure
 
 The IETF Intellectual Property Management Corporation (IPMC) is a Delaware not for profit corporation incorporated in December 2023 and is the successor organization to the IETF Trust.
 
-The IETF Trust transfered all of its assets including the copyrights mentioned in RFC5378 and its predessors and all other rights granted to the IETF Trust at the end of 2024.  
+The IETF Trust transfered all of its assets including the copyrights mentioned in RFC5378 and its predessors and all other rights granted to the IETF Trust at the end of 2024.
 
 The IPMC is the legal entity backing the IETF Intellectual Property Management role for the IETF and replaces the role of the IETF Trust mentioned in RFC 5378
 
@@ -86,7 +86,7 @@ IETF Trustees as described in various IETF documents, including RFC5377 are now 
 
 # IETF Intellectual Property Management (IPM)
 
-In prior versions of the IETF\'s intellectual property rights process descriptions the term IETF Trust 
+In prior versions of the IETF\'s intellectual property rights process descriptions the term IETF Trust
 
 
 

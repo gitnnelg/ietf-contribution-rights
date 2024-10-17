@@ -76,13 +76,13 @@ In 2023 after a community consultstion, the IETF Trustees decided to restructure
 
 The IETF Intellectual Property Management Corporation (IPMC) is a Delaware not for profit corporation incorporated in December 2023 and is the successor organization to the IETF Trust.
 
-The IETF Trust transfered all of its assets including the copyrights mentioned in {{RFC5378}} and its predessors and all other rights granted to the IETF Trust at the end of 2024.  
+The IETF Trust transfered all of its assets including the copyrights mentioned in RFC5378 and its predessors and all other rights granted to the IETF Trust at the end of 2024.  
 
 The IPMC is the legal entity backing the IETF Intellectual Property Management role for the IETF and replaces the role of the IETF Trust mentioned in RFC 5378
 
 ## IETF Trustees
 
-IETF Trustees as described in various IETF documents, including {{RFC5377}} are now the corporate board directors of the IPMC.  All references of IETF Trustees in IETF documents are understood to refer to the IPMC board of directors.
+IETF Trustees as described in various IETF documents, including RFC5377 are now the corporate board directors of the IPMC.  All references of IETF Trustees in IETF documents are understood to refer to the IPMC board of directors.
 
 # IETF Intellectual Property Management (IPM)
 

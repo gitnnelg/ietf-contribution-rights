@@ -87,14 +87,14 @@ Contributor for publication as all or part of an Internet-Draft or RFC
 (except for RFC Editor Contributions described in Section 4 below) and
 any statement made within the context of an IETF activity.  Such
 statements include oral statements in IETF sessions as well as written
-and electronic communications, made at any time or place, that are 
-addressed to: 
+and electronic communications, made at any time or place, that are
+addressed to:
 
-o the IETF plenary session, 
-o any IETF working group or portion thereof,  
+o the IETF plenary session,
+o any IETF working group or portion thereof,
 o any Birds of a Feather (BOF) session,
 o the IESG, or any member thereof on behalf of the IESG,
-o the IAB, or any member thereof on behalf of the IAB,   
+o the IAB, or any member thereof on behalf of the IAB,
 o any IETF mailing list, including the IETF list itself, any working
 group or design team list, or any other list functioning under IETF
 auspices,
@@ -231,14 +231,14 @@ IETF Trustees as described in various IETF documents, including {{!RFC5377}} are
 
 ## IETF Intellectual Property Management (IPM)
 
-In prior versions of the IETF\'s intellectual property rights process descriptions the term IETF Trust mean was overloaded to refer to both the Virginia trust and the role that the IETF Trust and Trustees played in the IETF\'s IPR processes.    The new term IPM for Intellectual Property Management is now being introduced as a replacement for when the IETF Trust term is used in processes descriptions. 
+In prior versions of the IETF\'s intellectual property rights process descriptions the term IETF Trust mean was overloaded to refer to both the Virginia trust and the role that the IETF Trust and Trustees played in the IETF\'s IPR processes.    The new term IPM for Intellectual Property Management is now being introduced as a replacement for when the IETF Trust term is used in processes descriptions.
 
 
 ## Changes from RFC5378
 
-This document replaces mentions of the Virginia IETF Trust with the IPMC or IETF Intellectual Property Management Corporation.     This document also replaces mentions of the IETF Trust role with IPM or Intellectual Property Management. 
+This document replaces mentions of the Virginia IETF Trust with the IPMC or IETF Intellectual Property Management Corporation.     This document also replaces mentions of the IETF Trust role with IPM or Intellectual Property Management.
 
-The rights detailed in {{!RFC5378}} have not been changed in this document, they are reproduced here to simply reading.     
+The rights detailed in {{!RFC5378}} have not been changed in this document, they are reproduced here to simply reading.
 
 
 
@@ -626,9 +626,9 @@ The IETF Intellectual Propoerty Management and IPM replace the IETF Trust in pro
 
 The Board of Directors of the IETF Intellectual Property Management Corporation replace the IETF Trustees.
 
-Rights granted to the IPMC have not changed from those granted to the IETF Trust.  
+Rights granted to the IPMC have not changed from those granted to the IETF Trust.
 
-Rights granted by the IPMC have not changes from those granted by the IETF Trust. 
+Rights granted by the IPMC have not changes from those granted by the IETF Trust.
 
 # Security Considerations
 

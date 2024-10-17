@@ -90,15 +90,15 @@ statements include oral statements in IETF sessions as well as written
 and electronic communications, made at any time or place, that are
 addressed to:
 
-o the IETF plenary session,
-o any IETF working group or portion thereof,
-o any Birds of a Feather (BOF) session,
-o the IESG, or any member thereof on behalf of the IESG,
-o the IAB, or any member thereof on behalf of the IAB,
-o any IETF mailing list, including the IETF list itself, any working
+* the IETF plenary session,
+* any IETF working group or portion thereof,
+* any Birds of a Feather (BOF) session,
+* the IESG, or any member thereof on behalf of the IESG,
+* the IAB, or any member thereof on behalf of the IAB,
+* any IETF mailing list, including the IETF list itself, any working
 group or design team list, or any other list functioning under IETF
 auspices,
-o the RFC Editor or the Internet-Drafts function (except for RFC Editor
+* the RFC Editor or the Internet-Drafts function (except for RFC Editor
 Contributions, as described in Section 4 below).
 
 Statements made outside of an IETF session, mailing list, or other
@@ -136,7 +136,8 @@ any of the settings described in 1(a) above.
 
 h. "IETF Trust": a trust established under the laws of the Commonwealth
 of Virginia, USA, in order to hold and administer intellectual property
-rights for the benefit of the IETF.
+rights for the benefit of the IETF.  The IETF Intellectual Property 
+Management Corporation is the successor organization to the IETF Trust.
 
 i. "Internet-Draft": temporary documents used in the IETF Standards
 Process.  Internet-Drafts are posted on the IETF web site by the IETF
@@ -164,6 +165,8 @@ m. "Non-IETF documents": Internet-Drafts that are submitted to the
 RFC Editor independently of the IETF Standards Process.  (See Section
 4.)
 
+n. "IETF Intellectual Property Managment Corporation": A Delaware corporation
+established in 2023.
 
 # Introduction
 

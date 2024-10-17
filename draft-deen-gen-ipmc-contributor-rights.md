@@ -8,7 +8,7 @@ ipr: trust200902
 stand_alone: yes
 pi: [toc, sortrefts, symrefs]
 
-docname: draft-deen-gen-impc-contributor-rights-latest
+docname: draft-deen-gen-ipmc-contributor-rights-latest
 
 submissionType: IETF
 

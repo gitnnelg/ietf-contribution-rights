@@ -47,12 +47,10 @@ This document is subject to BCP 78 and the IETF IPM Technical Legal Provisions R
 
 
 normative:
-
  RFC2026:
  RFC2028:
  RFC3979:
  RFC4371:
- 
 
 informative:
    RFC3978:
@@ -179,7 +177,7 @@ the legitimate rights of others.
 
 Under the laws of most countries and current international treaties (for
 example the "Berne Convention for the Protection of Literary and
-Artistic Work" [Berne]), authors obtain numerous rights in
+Artistic Work" [BERNE]), authors obtain numerous rights in
 the works they produce automatically upon producing them.  These rights
 include copyrights, moral rights, and other rights.  In many cases, if the
 author produces a work within the scope of his or her employment, most
@@ -202,6 +200,7 @@ informative.  RFC 3979 (BCP 79) [RFC3979] deals with rights,
 including possible patent rights, in technologies developed or specified
 as part of the IETF Standards Process.  This document is not intended to
 address those issues.
+
 This memo obsoletes RFCs 3978 [RFC3978] and 4748 [RFC4748] and, with RFC
 3979 (BCP 79) and [RFC5377], replaces Section 10 of RFC 2026
 [RFC2026].

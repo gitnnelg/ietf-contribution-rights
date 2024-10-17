@@ -9,23 +9,12 @@ stand_alone: yes
 pi: [toc, sortrefts, symrefs]
 
 docname: draft-deen-gen-impc-contributor-rights-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
-number:
-date:
-consensus: true
-v: 3
-area: general
+
+
+area: Heneral
 workgroup: gen
-keyword:
-  best current practice
-  bcp 78
-venue:
-  group: genarea
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: "gitnnelg/ietf-contribution-rights"
-  latest: ""
+keyword: BCP
+
 
 author:
  -

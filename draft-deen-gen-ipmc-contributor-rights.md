@@ -53,7 +53,7 @@ to ensure that such Contributions can be made available to the IETF and
 Internet communities while permitting the authors to retain as many
 rights as possible.  This memo details the IETF policies on rights in
 Contributions to the IETF.  It also describes the objectives that the
-policies are designed to meet.  This memo updates {{RFC5378}}.
+policies are designed to meet.  This memo updates RFC 5378.
 
 --- middle
 
@@ -78,7 +78,7 @@ The IETF Intellectual Property Management Corporation (IPMC) is a Delaware not f
 
 The IETF Trust transfered all of its assets including the copyrights mentioned in {{RFC5378}} and its predessors and all other rights granted to the IETF Trust at the end of 2024.  
 
-The IPMC is the legal entity backing the IETF Intellectual Property Management role for the IETF and replaces the role of the IETF Trust mentioned in {{RFC5378}}
+The IPMC is the legal entity backing the IETF Intellectual Property Management role for the IETF and replaces the role of the IETF Trust mentioned in RFC 5378
 
 ## IETF Trustees
 

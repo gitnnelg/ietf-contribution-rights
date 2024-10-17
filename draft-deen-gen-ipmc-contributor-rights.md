@@ -17,8 +17,8 @@ v: 3
 area: general
 workgroup: gen
 keyword:
- - best current practice
- - bcp 78
+  best current practice
+  bcp 78
 venue:
   group: genarea
   type: Working Group

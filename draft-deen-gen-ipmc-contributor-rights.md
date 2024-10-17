@@ -3,7 +3,7 @@
 title: "Rights Contributors Provide to IETF Intellectual Property Management"
 abbrev: "IPMCR"
 category: info
-
+ipr: trust200902
 
 stand_alone: yes
 pi: [toc, sortrefts, symrefs]

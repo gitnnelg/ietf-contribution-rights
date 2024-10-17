@@ -3,6 +3,9 @@
 title: "Rights Contributors Provide to IETF Intellectual Property Management"
 abbrev: "IPMCR"
 category: info
+obsoletes: 3978, 5748
+updates: 5378
+
 ipr: trust200902
 
 stand_alone: yes
@@ -15,6 +18,23 @@ submissionType: IETF
 area: "Internet Engineering Steering Group"
 workgroup: "General Area"
 keyword: BCP
+
+
+number:
+date:
+consensus: true
+v: 3
+area: general
+workgroup: gen
+
+venue:
+  group: genarea
+  type: Working Group
+  mail: WG@example.com
+  arch: https://example.com/WG
+  github: gitnnelg/ietf-contribution-rights
+  latest: https://gitnnelg.github.io/ieft-contribution-rights/draft-deen-gen-ipmc-contributor-rights.html
+
 
 
 author:

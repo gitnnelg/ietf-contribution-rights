@@ -3,7 +3,6 @@
 title: "Rights Contributors Provide to IETF Intellectual Property Management"
 abbrev: "IPMCR"
 category: info
-obsoletes: 3978, 5748
 updates: 5378
 
 ipr: trust200902
@@ -19,10 +18,6 @@ area: "Internet Engineering Steering Group"
 workgroup: "General Area"
 keyword: BCP
 
-
-number:
-date:
-consensus: true
 v: 3
 area: general
 workgroup: gen

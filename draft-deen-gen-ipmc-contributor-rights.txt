@@ -4,8 +4,7 @@
 
 gen                                                              G. Deen
 Internet-Draft                                      Comcast-NBCUniversal
-Obsoletes: 3978, 5748 (if approved)                      17 October 2024
-Updates: 5378 (if approved)                                             
+Updates: 5378 (if approved)                              17 October 2024
 Intended status: Informational                                          
 Expires: 20 April 2025
 

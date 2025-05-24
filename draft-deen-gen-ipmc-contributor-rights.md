@@ -1,14 +1,10 @@
 ---
 title: "Rights Contributors Provide to IETF Intellectual Property Management"
-
+docname: draft-deen-gen-ipmc-contributor-rights-latest
 abbrev: "IETFIPR"
 category: info
 updates: 5378
-
-docname: draft-deen-gen-ipmc-contributor-rights-latest
-
 ipr: trust200902
-
 stand_alone: yes
 
 # pi: [toc, sort refs, symrefs]

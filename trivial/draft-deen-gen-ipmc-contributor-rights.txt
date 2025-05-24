@@ -14,7 +14,8 @@ Expires: 25 November 2025
 
 Abstract
 
-   TODO
+   This will have something to do with [BERNE] stuff and [RFC5378] but
+   not [RFC822]
 
 About This Document
 
@@ -91,10 +92,14 @@ Table of Contents
 
 4.1.  Normative References
 
-   [RFC5377]  Halpern, J., Ed., "Advice to the Trustees of the IETF
-              Trust on Rights to Be Granted in IETF Documents",
-              RFC 5377, DOI 10.17487/RFC5377, November 2008,
-              <https://www.rfc-editor.org/rfc/rfc5377>.
+   [RFC5378]  Bradner, S., Ed. and J. Contreras, Ed., "Rights
+              Contributors Provide to the IETF Trust", BCP 78, RFC 5378,
+              DOI 10.17487/RFC5378, November 2008,
+              <https://www.rfc-editor.org/rfc/rfc5378>.
+
+   [RFC822]   Crocker, D., "STANDARD FOR THE FORMAT OF ARPA INTERNET
+              TEXT MESSAGES", STD 11, RFC 822, DOI 10.17487/RFC0822,
+              August 1982, <https://www.rfc-editor.org/rfc/rfc822>.
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,

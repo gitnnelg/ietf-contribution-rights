@@ -21,14 +21,19 @@ About This Document
 
    This note is to be removed before publishing as an RFC.
 
-   Status information for this document may be found at
-   https://datatracker.ietf.org/doc/draft-deen-gen-ipmc-contributor-
-   rights/.
+   The latest revision of this draft can be found at
+   https://gitnnelg.github.io/ieft-contribution-rights/draft-deen-gen-
+   ipmc-contributor-rights.html.  Status information for this document
+   may be found at https://datatracker.ietf.org/doc/draft-deen-gen-ipmc-
+   contributor-rights/.
 
    Discussion of this document takes place on the genarea Working Group
    mailing list (mailto:tlp-interest@ietf.org), which is archived at
    https://mailarchive.ietf.org/arch/browse/tlp-interest/.  Subscribe at
    https://www.ietf.org/mailman/listinfo/tlp-interest/.
+
+   Source for this draft and an issue tracker can be found at
+   https://github.com/gitnnelg/ietf-contribution-rights.
 
 Status of This Memo
 

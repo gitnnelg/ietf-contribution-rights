@@ -18,28 +18,20 @@ v: 3
 
 
 author:
-  -
     fullname: Glenn Deen
     organization: Comcast-NBCUniversal
     email: rgd.ietf@gmail.com
 
 normative:
- -
-
 
 informative:
- -
-  
 
 venue:
- -
    group: "genarea"
    type: "Working Group"
-   mail: tlp-interest@ietf.org
-      
+   mail: tlp-interest@ietf.org   
 
 --- abstract
- 
  TODO
 
 --- middle
@@ -47,7 +39,6 @@ venue:
 # Conventions and Definitions
 
 {::boilerplate bcp14-tagged}
-
 
 # Security Considerations
 
@@ -58,7 +49,6 @@ venue:
   This document has no IANA actions.
 
 --- back
- -
 
 # Acknowledgments
 {:unnumbered}

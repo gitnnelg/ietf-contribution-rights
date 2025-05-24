@@ -40,18 +40,15 @@ This document is subject to BCP 78 and the IETF IPM Technical Legal Provisions R
 
 
 normative:
-  
-  
 
 informative:
- 
   BERNE:
-      target: http://www.wipo.int/treaties/en/ip//
+      target: http://www.wipo.int/treaties/en/ip/
       title: " Convention for the Protection of Literary and Artistic Work"
 
 
 --- abstract
-
+[RFC821]
 The IETF policies about rights in Contributions to the IETF are designed
 to ensure that such Contributions can be made available to the IETF and
 Internet communities while permitting the authors to retain as many

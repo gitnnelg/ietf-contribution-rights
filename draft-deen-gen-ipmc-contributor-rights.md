@@ -18,19 +18,20 @@ workgroup: gen
 keyword: BCP
 v: 3
 
-venue: 
-  group: genarea
-  type: Working Group
-  mail: tlp-interest@ietf.org
-  arch: https://mailarchive.ietf.org/arch/browse/tlp-interest/
-  github: gitnnelg/ietf-contribution-rights
-  latest: https://gitnnelg.github.io/ieft-contribution-rights/draft-deen-gen-ipmc-contributor-rights.html
+venue:
+   group: "genarea"
+   type: "Working Group"
+   mail: "tlp-interest@ietf.org"
+   arch: "https://mailarchive.ietf.org/arch/browse/tlp-interest/"
+   github: "gitnnelg/ietf-contribution-rights"
+   latest: "https://gitnnelg.github.io/ieft-contribution-rights/draft-deen-gen-ipmc-contributor-rights.html"
+
 
 
 author:
  -
     fullname: "Glenn Deen"
-    organization: Comcast-NBCUniversal
+    organization: "Comcast-NBCUniversal"
     email: rgd.ietf@gmail.com
 
 --- Copyright Notice

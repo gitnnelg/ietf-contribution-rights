@@ -25,7 +25,6 @@ author:
 
 normative:
    BCP79:
-   BCP78:
    RFC5378:
 
 informative:

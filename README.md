@@ -2,6 +2,8 @@
 
 This is a planned update to RFC5378
 
+Current [RFC5378](https://www.rfc-editor.org/info/rfc5378)
+
 This is the working area for the individual Internet-Draft, "Rights Contributors Provide to IETF Intellectual Property Management Corporation".
 
 * [Editor's Copy](https://gitnnelg.github.io/ietf-contribution-rights/#go.draft-deen-gen-ipmc-contributor-rights.html)

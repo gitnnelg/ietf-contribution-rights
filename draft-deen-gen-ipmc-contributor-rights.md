@@ -37,6 +37,8 @@ normative:
    RFC5377:
    RFC3979:
    RFC5378:
+   RFC2026:
+   RFC4371:
 
 informative:
    BERNE:
@@ -46,7 +48,7 @@ informative:
 
 
 --- abstract
- -
+
 The IETF policies about rights in Contributions to the IETF are designed
 to ensure that such Contributions can be made available to the IETF and
 Internet communities while permitting the authors to retain as many
@@ -57,7 +59,7 @@ as the successor to the IETF Trust.  This memo updates {{RFC5378}}.
 
 
 --- middle
-  -
+
 
 # Conventions and Definitions
 
@@ -135,7 +137,7 @@ Documents.  The text and instructions are posted from time to time at http://tru
 k. "RFC": the publication series used by the IETF among others.  RFCs are published
 by the RFC Editor.  Although RFCs may be superseded in whole or in part
 by subsequent RFCs, the text of an RFC is not altered once published in
-RFC form.  (See {{!RFC2026}} Section 2.1.)
+RFC form.  (See {{RFC2026}} Section 2.1.)
 
 l. "Reasonably and personally known": something an individual
 knows personally or, because of the job the individual holds, would
@@ -192,7 +194,7 @@ This memo obsoletes RFCs {{RFC5378}}, {{RFC3978}} and {{RFC4748}} and, with RFC
 
 This document is not intended as legal advice.  Readers are advised to
 consult their own legal advisors if they would like a legal
-interpretation of their rights or the rights of the IETF IPMC {{!RFC4371}}
+interpretation of their rights or the rights of the IETF IPMC {{RFC4371}}
 in any Contributions they make.
 
 ##  No Retroactive Effect
@@ -603,10 +605,8 @@ policies.
 This document has no IANA actions.
 
 --- back
- -
 
 # Acknowledgments
-
 
 The editor would like to acknowledge the contributions of Scott Bradner and Jorge L. Contreras
 as the editors of RFC5378 and the IETF IPR Working Group that developed RFC5378.

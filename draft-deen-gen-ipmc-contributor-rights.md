@@ -1,7 +1,7 @@
 ---
-title: "Rights Contributors Provide to IETF Intellectual Property Management"
+title: ABC
 
-docname: draft-deen-gen-ipmc-contributor-rights-latest
+docname: draft-deen-123
 
 abbrev: "IETFIPR"
 category: info
@@ -9,8 +9,6 @@ updates: 5378
 
 stand_alone: yes
 pi: [toc, sort refs]
-
-ipr: trust200902
 
 submissionType: IETF
 area: "General Area"
@@ -21,8 +19,8 @@ v: 3
 
 author:
   -
-    fullname: "Glenn Deen"
-    organization: "Comcast-NBCUniversal"
+    fullname: Glenn Deen
+    organization: Comcast-NBCUniversal
     email: rgd.ietf@gmail.com
 
 normative:
@@ -38,9 +36,6 @@ venue:
    group: "genarea"
    type: "Working Group"
    mail: tlp-interest@ietf.org
-   arch: https://mailarchive.ietf.org/arch/browse/tlp-interest/
-   github: gitnnelg/ietf-contribution-rights
-   latest: https://gitnnelg.github.io/ieft-contribution-rights/draft-deen-gen-ipmc-contributor-rights.html
       
 
 --- abstract

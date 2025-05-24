@@ -1,4 +1,6 @@
-# Rights Contributors Provide to IETF Intellectual Property Management
+# Rights Contributors Provide to IETF Intellectual Property Management Corporation
+
+This is a planned update to RFC5378
 
 This is the working area for the individual Internet-Draft, "Rights Contributors Provide to IETF Intellectual Property Management".
 

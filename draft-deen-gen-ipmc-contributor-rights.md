@@ -7,7 +7,7 @@ updates: 5378
 
 ipr: trust200902
 
-stand_alone: yes
+stand_alone: no
 pi: [toc, sortrefts, symrefs]
 
 docname: draft-deen-gen-ipmc-contributor-rights-latest
@@ -58,9 +58,9 @@ informative:
   RFC4844:
   RFC5377:
   RFC5378:
-  BERNE:
-      target: http://www.wipo.int/treaties/en/ip/berne/
-      title: "Berne Convention for the Protection of Literary and Artistic Work"
+  :
+      target: http://www.wipo.int/treaties/en/ip//
+      title: " Convention for the Protection of Literary and Artistic Work"
 
 
 
@@ -178,7 +178,7 @@ benefit the Internet community and the public at large, while respecting
 the legitimate rights of others.
 
 Under the laws of most countries and current international treaties (for
-example the "Berne Convention for the Protection of Literary and
+example the " Convention for the Protection of Literary and
 Artistic Work" {{BERNE}}), authors obtain numerous rights in
 the works they produce automatically upon producing them.  These rights
 include copyrights, moral rights, and other rights.  In many cases, if the

@@ -17,6 +17,14 @@ keyword: BCP
 v: 3
 
 
+venue:
+   group: "genarea"
+   type: "Working Group"
+   mail: tlp-interest@ietf.org
+   arch: https://mailarchive.ietf.org/arch/browse/tlp-interest/
+   github: gitnnelg/ietf-contribution-rights
+   latest: https://gitnnelg.github.io/ieft-contribution-rights/draft-deen-gen-ipmc-contributor-rights.html
+
 author:
  -
     fullname: Glenn Deen
@@ -32,13 +40,6 @@ informative:
        target: http://www.wipo.int/treaties/en/ip/
        title: "Convention for the Protection of Literary and Artistic Work"
 
-venue:
-   group: "genarea"
-   type: "Working Group"
-   mail: tlp-interest@ietf.org
-   arch: https://mailarchive.ietf.org/arch/browse/tlp-interest/
-   github: gitnnelg/ietf-contribution-rights
-   latest: https://gitnnelg.github.io/ieft-contribution-rights/draft-deen-gen-ipmc-contributor-rights.html
 
 --- abstract
 

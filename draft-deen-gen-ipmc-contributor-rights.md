@@ -38,7 +38,7 @@ venue:
    arch: https://mailarchive.ietf.org/arch/browse/tlp-interest/
    github: gitnnelg/ietf-contribution-rights
    latest: https://gitnnelg.github.io/ieft-contribution-rights/draft-deen-gen-ipmc-contributor-rights.html
- 
+
 --- abstract
 
 This will have something to do with {{BERNE}} stuff and {{RFC5378}} but not {{!RFC822}}

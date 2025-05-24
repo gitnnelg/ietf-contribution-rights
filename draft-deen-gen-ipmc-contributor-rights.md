@@ -37,13 +37,16 @@ venue:
    mail: tlp-interest@ietf.org
 
 --- abstract
- TODO
+
+This will have something to do with {{BERNE}} stuff and {{RFC5378}} but not {{!RFC822}}
 
 --- middle
 
 # Conventions and Definitions
 
 {::boilerplate bcp14-tagged}
+
+
 
 # Security Considerations
 

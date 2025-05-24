@@ -7,14 +7,16 @@ abbrev: "IETFIPR"
 category: info
 updates: 5378
 
-ipr: trust200902
 stand_alone: yes
+pi: [toc, sort refs]
+
+ipr: trust200902
+
 submissionType: IETF
 area: "General Area"
 workgroup: gen
 keyword: BCP
 v: 3
-pi: [toc, sort refs]
 
 
 author:
@@ -35,8 +37,8 @@ normative:
 informative:
  -
    BERNE:
-      -target: http://www.wipo.int/treaties/en/ip/
-      -title: "Convention for the Protection of Literary and Artistic Work"
+       target: http://www.wipo.int/treaties/en/ip/
+       title: "Convention for the Protection of Literary and Artistic Work"
 
 venue:
  -

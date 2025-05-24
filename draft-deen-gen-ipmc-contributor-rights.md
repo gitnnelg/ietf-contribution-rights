@@ -198,14 +198,14 @@ to grant these rights.
 Section 1 provides definitions used in these policies.  Sections 3 and 4
 of this document explain the rationale for these provisions.  Sections 1,
 2, 5, and 6 of this document are normative, the other sections are
-informative.  RFC 3979 (BCP 79) [RFC3979] deals with rights,
+informative.  RFC 3979 {{BCP79}} {{RFC3979}} deals with rights,
 including possible patent rights, in technologies developed or specified
 as part of the IETF Standards Process.  This document is not intended to
 address those issues.
 
-This memo obsoletes RFCs 5378 [RFC5378], 3978 [RFC3978] and 4748 [RFC4748] and, with RFC
-3979 (BCP 79) and [RFC5377], replaces Section 10 of RFC 2026
-[RFC2026].
+This memo obsoletes RFCs {{RFC5378}}, {{RFC3978}} and {{RFC4748}} and, with RFC
+3979 {{BCP79}} and {{RFC5377}}, replaces Section 10 of RFC 2026
+{{RFC2026}}.
 
 This document is not intended as legal advice.  Readers are advised to
 consult their own legal advisors if they would like a legal
@@ -254,7 +254,7 @@ This sublicense is necessary for the standards
 development work of the IETF to continue.  In addition, the IETF IPMC
 may grant certain other sublicenses of the rights that it is granted
 under this document.  In granting such other sublicenses, the IETF IPMC
-will be guided and bound by documents such as [RFC5377].
+will be guided and bound by documents such as {{RFC5377}}.
 
 ## Rights to Use Contributions
 
@@ -315,7 +315,7 @@ with respect to different types of Contributions and content within
 Contributions (such as executable code versus descriptive text or
 references to third-party materials).  The IETF Trust's policies
 concerning the granting of sublicenses to make derivative works will be
-guided by RFC [RFC5377].
+guided by RFC {{RFC5377}}.
 
 The IETF has historically encouraged organizations to publish details of
 their technologies, even when the technologies are proprietary,
@@ -353,7 +353,6 @@ reproduce, publish, discuss, and modify the IETF Contribution.  This
 license does not authorize the IETF or others to use any trademark or
 service mark in connection with any product or service offering.
 
-.ti 0
 ##  Contributions Not Subject to Copyright
 
 Certain documents, including those produced by the U.S. government and
@@ -390,7 +389,7 @@ may not do so in the RFC format used by the IETF.  And while this
 principle (which is included in Section 5.9 below) may appear to be new
 to the IETF, it actually reflects historical practice and has been
 observed for many years through the inclusion of an ISOC or IETF Trust
-copyright notice on all RFC documents since the publication of RFC 2026.
+copyright notice on all RFC documents since the publication of {{RFC2026}}.
 
 ## Non-IETF Documents
 
@@ -399,7 +398,7 @@ Processes.  Other documents that are referred to as Internet-Drafts
 and RFCs may be submitted to and published by the RFC Editor
 independently of the IETF Standards Process.  Such documents are not
 covered by this document, unless the controlling entity for that
-document stream, as described in [RFC4844] chooses to apply these
+document stream, as described in {{RFC4844}} chooses to apply these
 rules.  Non-IETF Contributions must be marked appropriately as
 described in the Legend Instructions.  See the RFC Editor web page
 for information about the policies concerning rights in RFC Editor
@@ -486,13 +485,13 @@ agreement.
 
 In addition, the IETF IPMC may grant additional sublicenses of the
 licenses granted to it hereunder.  In doing so, the IETF IPMC will
-comply with the guidance provided under RFC 5377 [RFC5377].
+comply with the guidance provided under {{RFC 5377}}.
 
 ## No Patent License
 
 The licenses granted in Section 5.3 shall not be deemed to grant any
 right under any patent, patent application, or other similar intellectual
-property right disclosed by the Contributor under BCP 79 [RFC3979] or
+property right disclosed by the Contributor under BCP 79 {{RFC3979}} or
 otherwise.
 
 
@@ -536,7 +535,7 @@ Contributors who claim trademark rights in terms used in their IETF
 Contributions are requested to state specifically what conditions apply
 to implementers of the technology relative to the use of such
 trademarks.  Such statements should be submitted in the same way as is
-done for other intellectual property claims.  (See [RFC3979] Section 6.)
+done for other intellectual property claims.  (See {{RFC3979}} Section 6.)
 
 ## Copyright in RFCs
 

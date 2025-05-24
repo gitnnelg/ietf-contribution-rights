@@ -1,6 +1,7 @@
 ---
 
 title: "Rights Contributors Provide to IETF Intellectual Property Management"
+
 docname: draft-deen-gen-ipmc-contributor-rights-latest
 abbrev: "IETFIPR"
 category: info
@@ -17,7 +18,6 @@ area: "General Area"
 workgroup: gen
 keyword: BCP
 v: 3
-
 venue:
    group: "genarea"
    type: "Working Group"
@@ -27,19 +27,15 @@ venue:
    latest: "https://gitnnelg.github.io/ieft-contribution-rights/draft-deen-gen-ipmc-contributor-rights.html"
 
 
-
 author:
- -
+-
     fullname: "Glenn Deen"
     organization: "Comcast-NBCUniversal"
     email: rgd.ietf@gmail.com
 
-
-
 normative:
 
 informative:
-
   - BERNE:
       - target: http://www.wipo.int/treaties/en/ip/
       - title: "Convention for the Protection of Literary and Artistic Work"

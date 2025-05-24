@@ -4,7 +4,7 @@ title: ABC
 docname: draft-deen-gen-ipmc-contributor-rights-latest
 
 abbrev: "IETFIPR"
-category: info
+category: Best Current Practice
 updates: 5378
 
 stand_alone: yes

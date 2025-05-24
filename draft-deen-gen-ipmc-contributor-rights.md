@@ -51,6 +51,7 @@ normative:
  RFC2028:
  RFC3979:
  RFC4371:
+ RFC822:
 
 informative:
   RFC3978:
@@ -58,7 +59,7 @@ informative:
   RFC4844:
   RFC5377:
   RFC5378:
-  :
+  BERNE:
       target: http://www.wipo.int/treaties/en/ip//
       title: " Convention for the Protection of Literary and Artistic Work"
 
@@ -228,8 +229,8 @@ to now refer to the IETF IPMC.
 ## Changes from RFC5378
 
 This document does not change the IETF intellectual property rights from what is described in
-{{RFC5378}} other than to update mentions of the IETF Trust with the IETF 
-Intellectual Property Management Corporation and references and links previously 
+{{RFC5378}} other than to update mentions of the IETF Trust with the IETF
+Intellectual Property Management Corporation and references and links previously
 to the IETF Trust website to the IETF IPMC website.
 
 #  Exposition of Why These Procedures Are the Way They Are

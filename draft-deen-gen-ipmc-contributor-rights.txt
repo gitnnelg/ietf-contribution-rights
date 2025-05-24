@@ -702,46 +702,46 @@ Table of Contents
 
    [RFC4748]  Bradner, S., Ed., "RFC 3978 Update to Recognize the IETF
               Trust", RFC 4748, DOI 10.17487/RFC4748, October 2006,
-              <https://www.rfc-editor.org/rfc/rfc4748>.
+              <https://www.rfc-editor.org/info/rfc4748>.
 
    [RFC3978]  Bradner, S., Ed., "IETF Rights in Contributions",
               RFC 3978, DOI 10.17487/RFC3978, March 2005,
-              <https://www.rfc-editor.org/rfc/rfc3978>.
+              <https://www.rfc-editor.org/info/rfc3978>.
 
    [RFC5377]  Halpern, J., Ed., "Advice to the Trustees of the IETF
               Trust on Rights to Be Granted in IETF Documents",
               RFC 5377, DOI 10.17487/RFC5377, November 2008,
-              <https://www.rfc-editor.org/rfc/rfc5377>.
+              <https://www.rfc-editor.org/info/rfc5377>.
 
    [RFC3979]  Bradner, S., Ed., "Intellectual Property Rights in IETF
               Technology", RFC 3979, DOI 10.17487/RFC3979, March 2005,
-              <https://www.rfc-editor.org/rfc/rfc3979>.
+              <https://www.rfc-editor.org/info/rfc3979>.
 
    [RFC5378]  Bradner, S., Ed. and J. Contreras, Ed., "Rights
               Contributors Provide to the IETF Trust", BCP 78, RFC 5378,
               DOI 10.17487/RFC5378, November 2008,
-              <https://www.rfc-editor.org/rfc/rfc5378>.
+              <https://www.rfc-editor.org/info/rfc5378>.
 
    [RFC2026]  Bradner, S., "The Internet Standards Process -- Revision
               3", BCP 9, RFC 2026, DOI 10.17487/RFC2026, October 1996,
-              <https://www.rfc-editor.org/rfc/rfc2026>.
+              <https://www.rfc-editor.org/info/rfc2026>.
 
    [RFC4371]  Carpenter, B., Ed. and L. Lynch, Ed., "BCP 101 Update for
               IPR Trust", RFC 4371, DOI 10.17487/RFC4371, January 2006,
-              <https://www.rfc-editor.org/rfc/rfc4371>.
+              <https://www.rfc-editor.org/info/rfc4371>.
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
               DOI 10.17487/RFC2119, March 1997,
-              <https://www.rfc-editor.org/rfc/rfc2119>.
+              <https://www.rfc-editor.org/info/rfc2119>.
 
    [RFC8174]  Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC
               2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
-              May 2017, <https://www.rfc-editor.org/rfc/rfc8174>.
+              May 2017, <https://www.rfc-editor.org/info/rfc8174>.
 
    [RFC4844]  Daigle, L., Ed. and IAB, "The RFC Series and RFC Editor",
               RFC 4844, DOI 10.17487/RFC4844, July 2007,
-              <https://www.rfc-editor.org/rfc/rfc4844>.
+              <https://www.rfc-editor.org/info/rfc4844>.
 
 9.2.  Informative References
 

@@ -485,7 +485,7 @@ agreement.
 
 In addition, the IETF IPMC may grant additional sublicenses of the
 licenses granted to it hereunder.  In doing so, the IETF IPMC will
-comply with the guidance provided under {{RFC 5377}}.
+comply with the guidance provided under {{RFC5377}}.
 
 ## No Patent License
 

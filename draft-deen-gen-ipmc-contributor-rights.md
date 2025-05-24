@@ -40,7 +40,6 @@ normative:
    RFC5377:
    RFC3979:
    
-
 informative:
    BERNE:
       -target: http://www.wipo.int/treaties/en/ip/
@@ -204,7 +203,7 @@ adoption of these procedures.
 
 ## IETF Trust Successor IETF Intellectual Propery Management Corporation
 
-In 2025 the IETF Intellectual Property Management Corporation (IETF IPMC) replaced the 
+In 2025 the IETF Intellectual Property Management Corporation (IETF IPMC) replaced the
 IETF Trust providing intellectual property management to the IETF.
 
 The rights granted and held by the IETF Trust were assigned to the IETF IPMC.   Mentions

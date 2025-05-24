@@ -14,13 +14,12 @@ docname: draft-deen-gen-ipmc-contributor-rights-latest
 
 submissionType: IETF
 
-area: "Internet Engineering Steering Group"
-workgroup: "General Area"
+area: general
+workgroup: gen
 keyword: BCP
 
 v: 3
-area: general
-workgroup: gen
+
 
 venue:
   group: genarea

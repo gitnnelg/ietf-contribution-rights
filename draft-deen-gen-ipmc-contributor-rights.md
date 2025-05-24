@@ -24,10 +24,9 @@ venue:
 
 author:
    fullname: "Glenn Deen"
-   ins: G. Deen
+   ins: "G. Deen"
    organization: "Comcast-NBCUniversal"
    email: rgd.ietf@gmail.com
-   role: editor
 
 normative:  
  - BCP79:

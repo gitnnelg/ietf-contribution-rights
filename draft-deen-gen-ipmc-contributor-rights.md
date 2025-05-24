@@ -23,7 +23,6 @@ venue:
    latest: "https://gitnnelg.github.io/ieft-contribution-rights/draft-deen-gen-ipmc-contributor-rights.html"
 
 author:
-  -
    fullname: "Glenn Deen"
    ins: G. Deen
    organization: "Comcast-NBCUniversal"
@@ -43,7 +42,6 @@ informative:
       -target: http://www.wipo.int/treaties/en/ip/
       -title: "Convention for the Protection of Literary and Artistic Work"
       
-pi: [toc, sort refs]
 
 --- abstract
 

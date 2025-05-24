@@ -3,7 +3,7 @@
 
 
 gen                                                              G. Deen
-Internet-Draft                                      Comcast-NBCUniversal
+Internet-Draft                                                 IETF IPMC
 Updates: 5378 (if approved)                                  24 May 2025
 Intended status: Informational                                          
 Expires: 25 November 2025
@@ -755,5 +755,5 @@ Appendenix
 Author's Address
 
    Glenn Deen
-   Comcast-NBCUniversal
+   IETF IPMC
    Email: rgd.ietf@gmail.com

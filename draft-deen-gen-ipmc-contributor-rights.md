@@ -1,7 +1,7 @@
 ---
 title: ABC
 
-docname: draft-deen-123
+docname: draft-deen-gen-ipmc-contributor-rights-latest
 
 abbrev: "IETFIPR"
 category: info

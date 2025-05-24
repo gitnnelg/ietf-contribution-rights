@@ -7,7 +7,7 @@ updates: 5378
 
 ipr: trust200902
 
-stand_alone: no
+stand_alone: yes
 pi: [toc, sortrefts, symrefs]
 
 docname: draft-deen-gen-ipmc-contributor-rights-latest
@@ -67,7 +67,7 @@ informative:
 
 --- abstract
 
-The IETF policies about rights in Contributions to the IETF are designed {{!RFC822}} {{RFC821}}
+The IETF policies about rights in Contributions to the IETF are designed {RFC822} {{RFC821}}
 to ensure that such Contributions can be made available to the IETF and
 Internet communities while permitting the authors to retain as many
 rights as possible.  This memo is an update to {{!RFC5378}} and memo

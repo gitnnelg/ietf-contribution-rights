@@ -22,16 +22,15 @@ venue:
    github: "gitnnelg/ietf-contribution-rights"
    latest: "https://gitnnelg.github.io/ieft-contribution-rights/draft-deen-gen-ipmc-contributor-rights.html"
 
-pi: [toc, sortrefs]
+pi: [toc, sort refs]
 
 author:
- -
+-
     fullname: "Glenn Deen"
     ins: G. Deen
     organization: "Comcast-NBCUniversal"
     email: rgd.ietf@gmail.com
     role: editor
-
 
 
 normative:

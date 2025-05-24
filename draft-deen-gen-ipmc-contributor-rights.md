@@ -40,7 +40,7 @@ author:
 
 --- Copyright Notice
 
-Copyright (c) 2024 IETF Intellectual Property Management Corporation and the persons identified as the document authors.  All rights reserved.
+Copyright (c) 2025 IETF Intellectual Property Management Corporation and the persons identified as the document authors.  All rights reserved.
 
 This document is subject to BCP 78 and the IETF IPM Technical Legal Provisions Relating to IETF Documents (http://ietf-ipm.org/license-info) in effect on the date of publication of this document. Please review these documents carefully, as they describe your rights and restrictions with respect to this document.  Code Components extracted from this document must include Revised BSD License text as described in Section 4.e of the Technical Legal Provisions and are provided without warranty as described in the Revised BSD License.
 
@@ -69,9 +69,10 @@ informative:
 The IETF policies about rights in Contributions to the IETF are designed
 to ensure that such Contributions can be made available to the IETF and
 Internet communities while permitting the authors to retain as many
-rights as possible.  This memo details the IETF policies on rights in
-Contributions to the IETF.  It also describes the objectives that the
-policies are designed to meet.  This memo updates {{!RFC5378}}.
+rights as possible.  This memo is an update to {{!RFC5378}} and memo
+retains the RFC5378 policies about rights in Contributiions to the IETF without
+change, except the necessary edits needed to recongize the IETF Intelectual Property Management Corporation
+as the successor to the IETF Trust.This memo updates {{!RFC5378}}.
 
 --- middle
 
@@ -137,7 +138,8 @@ any of the settings described in 1(a) above.
 h. "IETF Trust": a trust established under the laws of the Commonwealth
 of Virginia, USA, in order to hold and administer intellectual property
 rights for the benefit of the IETF.  The IETF Intellectual Property
-Management Corporation is the successor organization to the IETF Trust.
+Management Corporation replaced the IETF Trust in 2025 as the successor
+organization.
 
 i. "Internet-Draft": temporary documents used in the IETF Standards
 Process.  Internet-Drafts are posted on the IETF web site by the IETF
@@ -165,14 +167,14 @@ m. "Non-IETF documents": Internet-Drafts that are submitted to the
 RFC Editor independently of the IETF Standards Process.  (See Section
 4.)
 
-n. "IETF Intellectual Property Managment Corporation": A Delaware corporation
-established in 2023.
+n. "IETF Intellectial Property Management": IETF IPM, the role of holding and
+administering the intellectual property rights for the IETF.
+
+o. "IETF Intellectual Property Managment Corporation": IETF IPMC, A Delaware corporation
+established in 2023 as the legal entity supporting the IETF IPM role and the successor entity
+to the IETF Trust.
 
 # Introduction
-
-This document updates an Internet Best Current Practices for the
-Internet Community, and requests discussion and suggestions for
-improvements.  Distribution of this memo is unlimited.
 
 In all matters of copyright and document procedures, the intent is to
 benefit the Internet community and the public at large, while respecting
@@ -204,7 +206,7 @@ including possible patent rights, in technologies developed or specified
 as part of the IETF Standards Process.  This document is not intended to
 address those issues.
 
-This memo obsoletes RFCs 3978 [RFC3978] and 4748 [RFC4748] and, with RFC
+This memo obsoletes RFCs 5378 [RFC5378], 3978 [RFC3978] and 4748 [RFC4748] and, with RFC
 3979 (BCP 79) and [RFC5377], replaces Section 10 of RFC 2026
 [RFC2026].
 
@@ -213,51 +215,29 @@ consult their own legal advisors if they would like a legal
 interpretation of their rights or the rights of the IETF Trust {{!RFC4371}}
 in any Contributions they make.
 
-
-## IETF Trust Restructuring
-
-The IETF Trust was a trust established in 2005 under the laws of the Commonwealth of Viginia, USA, in order to holds and adminster intellectual property rights for the benefit of the IETF.
-
-In 2023 after a community consultstion, the IETF Trustees decided to restructured the IETF Trust into a Delaware corporation which would take over from the IETF Trust and continue to provide the same function as the IETF Trust had since 2005.
-
-## IETF Intellectual Property Management Corporation
-
-The IETF Intellectual Property Management Corporation (IPMC) is a Delaware not for profit corporation incorporated in December 2023 and is the successor organization to the IETF Trust.
-
-The IETF Trust transfered all of its assets including the copyrights mentioned in RFC5378 and its predessors and all other rights granted to the IETF Trust at the end of 2024.
-
-The IPMC is the legal entity backing the IETF Intellectual Property Management role for the IETF and replaces the role of the IETF Trust mentioned in {{!RFC5378}}
-
-## IETF Trustees
-
-IETF Trustees as described in various IETF documents, including {{!RFC5377}} are now the corporate board directors of the IPMC.  All references of IETF Trustees in IETF documents are understood to refer to the IPMC board of directors.
-
-## IETF Intellectual Property Management (IPM)
-
-In prior versions of the IETF\'s intellectual property rights process descriptions the term IETF Trust mean was overloaded to refer to both the Virginia trust and the role that the IETF Trust and Trustees played in the IETF\'s IPR processes.    The new term IPM for Intellectual Property Management is now being introduced as a replacement for when the IETF Trust term is used in processes descriptions.
-
-
-## Changes from RFC5378
-
-This document replaces mentions of the Virginia IETF Trust with the IPMC or IETF Intellectual Property Management Corporation.     This document also replaces mentions of the IETF Trust role with IPM or Intellectual Property Management.
-
-The rights detailed in {{!RFC5378}} have not been changed in this document, they are reproduced here to simply reading.
-
-
-
 ##  No Retroactive Effect
 
 This memo does not retroactively obtain additional rights from
-Contributions that predate the date that the IETF Trust announces the
+Contributions that predate the date that the IETF Intellectual Property Management Corporation announces the
 adoption of these procedures.
+
+## IETF Trust Successor IETF Intellectual Propery Management Corporation
+
+In 2025 the IETF Intellectual Property Management Corporation (IETF IPMC) replaced the IETF Trust providing intellectual property management to the IETF. 
+
+The rights granted and held by the IETF Trust were assigned to the IETF IPMC.   Mentions of the IETF Trust in this memo and prior versions should be understood
+to now refer to the IETF IPMC.
+
+## Changes from RFC5378
+
+This document does not change the IETF intellectual property rights from what is described in RFC5378 other than to update mentions of the IETF Trust with the IETF Intellectual Property Management Corporation and references and links previously to the IETF Trust website to the IETF IPMC website.
 
 
 #  Exposition of Why These Procedures Are the Way They Are
 
-
 ##  Rights Granted in Contributions
 
-The IETF Trust and the IETF must obtain the right to publish an IETF
+The IETF IPMC and the IETF must obtain the right to publish an IETF
 Contribution as an RFC or an Internet-Draft from the Contributors.
 
 A primary objective of this policy is to obtain from the document
@@ -266,16 +246,16 @@ publish IETF Documents and to use IETF Contributions in the IETF
 Standards Process and potentially elsewhere.
 
 The authors retain all other rights, but cannot withdraw the above
-rights from the IETF Trust and the IETF.
+rights from the IETF IPMC and the IETF.
 
 It is important to note that under this document, Contributors are
-required to grant certain rights to the IETF Trust (see Section 5.3.),
+required to grant certain rights to the IETF IPMC (see Section 5.3.),
 which holds all IETF-related intellectual property on behalf of the IETF
-community.  The IETF Trust will, in turn, grant a sublicense of these
+community.  The IETF IPMC will, in turn, grant a sublicense of these
 rights to all IETF participants for use in the IETF Standards Process (see Section 5.4.).  This sublicense is necessary for the standards
-development work of the IETF to continue.  In addition, the IETF Trust
+development work of the IETF to continue.  In addition, the IETF IPMC
 may grant certain other sublicenses of the rights that it is granted
-under this document.  In granting such other sublicenses, the IETF Trust
+under this document.  In granting such other sublicenses, the IETF IPMC
 will be guided and bound by documents such as [RFC5377].
 
 ## Rights to Use Contributions
@@ -350,7 +330,6 @@ Organizations that feel this way can specify that a Contribution be
 published with the other rights granted under this document but may
 withhold the right to produce derivative works other than translations.
 
-.ne 3
 In addition, IETF Documents frequently make normative references to
 standards or recommendations developed by other standards organizations.
 Since the publications of some standards organizations are not public
@@ -370,7 +349,7 @@ Contributors may wish to seek trademark or service mark protection on
 any terms that are coined or used in their Contributions.  The IETF makes
 no judgment about the validity of any such trademark rights.  However,
 the IETF requires each Contributor, under the licenses described in
-Section 5.3 below, to grant the IETF Trust a perpetual license to use
+Section 5.3 below, to grant the IETF IPMC a perpetual license to use
 any such trademarks or service marks solely in exercising rights to
 reproduce, publish, discuss, and modify the IETF Contribution.  This
 license does not authorize the IETF or others to use any trademark or
@@ -388,7 +367,7 @@ Contribution were protected by the same legal rights as other
 documents, and as though the Contributor could be able to grant these rights.  We ask
 for these grants and representations only to the extent that the
 Contribution may be protected.  We believe they are necessary to
-protect the ISOC, the IETF Trust, the IETF, the IETF Standards
+protect the ISOC, the IETF IPMC, the IETF, the IETF Standards
 Process, and all IETF participants, and because
 the IETF does not have the resources or wherewithal to make any
 independent investigation as to the actual proprietary status of any
@@ -400,12 +379,12 @@ As noted above, Contributors to the IETF (or their employers) retain
 ownership of the copyright in their Contributions.  This includes
 Internet-Drafts and all other Contributions made within the IETF
 Standards Process (e.g., via e-mail, oral comment, and otherwise).
-However, it is important that the IETF (through the IETF Trust) own the
+However, it is important that the IETF (through the IETF IPMC) own the
 copyright in documents that are published as RFCs (other than
 Informational RFCs and RFCs that are submitted as RFC Editor
 Contributions).  Ownership of the copyright in an RFC does not diminish
 the Contributors' rights in their underlying contributions, but it does
-prevent anyone other than the IETF Trust (and its licensees) from
+prevent anyone other than the IETF IPMC (and its licensees) from
 republishing or modifying an RFC in RFC format.  In this respect,
 Contributors are treated the same as anybody else: though they may
 extract and republish their own Contributions without limitation, they
@@ -466,13 +445,13 @@ generated automatically or otherwise, that states or implies that the
 Contribution is confidential or subject to any privilege, can be
 disregarded for all purposes, and will be of no force or effect.
 
-## Rights Granted by Contributors to the IETF Trust
+## Rights Granted by Contributors to the IETF Intellectual Property Management Corporation
 
 To the extent that a Contribution or any portion thereof is protected by
 copyright or other rights of authorship, the Contributor and each named
 co-Contributor grant a perpetual, irrevocable, non-exclusive,
 royalty-free, world-wide, sublicensable right and license to the IETF
-Trust under all such copyrights and other rights in the Contribution:
+IPMC under all such copyrights and other rights in the Contribution:
 
 a. to copy, publish, display, and distribute the Contribution, in whole
 or in part,
@@ -495,20 +474,20 @@ thereof as permitted by this Section 5.3, provided that when reproducing
 Contributions, trademark and service mark identifiers used in the
 Contribution, including TM and (R), will be preserved.
 
-## Sublicenses by the IETF Trust
+## Sublicenses by the IETF IPMC
 
-The IETF Trust will sublicense the rights granted to it under Section
+The IETF IPMC will sublicense the rights granted to it under Section
 5.3 to all IETF participants for use within the IETF Standards Process.
 This license is expressly granted under a license agreement issued by
 the IETF Trust, which can be found at
 http://trustee.ietf.org/license-info.
 
 This license is expressly granted under a license agreement issued by
-the IETF Trust and must contain a pointer to the full IETF Trust
+the IETF IPMC and must contain a pointer to the full IETF IPMC
 agreement.
 
-In addition, the IETF Trust may grant additional sublicenses of the
-licenses granted to it hereunder.  In doing so, the IETF Trust will
+In addition, the IETF IPMC may grant additional sublicenses of the
+licenses granted to it hereunder.  In doing so, the IETF IPMC will
 comply with the guidance provided under RFC 5377 [RFC5377].
 
 ## No Patent License
@@ -528,7 +507,7 @@ a. The Contribution properly acknowledges all Contributors, including
 Indirect Contributors.
 
 b. No information in the Contribution is confidential, and the IETF, IETF
-Trust, ISOC, and its affiliated organizations may freely disclose any
+Trust, IETF IPMC, ISOC, and its affiliated organizations may freely disclose any
 information in the Contribution.
 
 c. There are no limits to the Contributor's ability to make the grants,
@@ -568,20 +547,19 @@ underlying Contributions as described in Section 5.6 (which ownership is
 qualified by the irrevocable licenses granted under Section 5.3), each
 Contributor hereby acknowledges that the copyright in any RFC in which
 such Contribution is included, other than an RFC that is an RFC Editor
-Contribution, shall be owned by the IETF Trust.  Such Contributor shall
-be deemed to assign to the IETF Trust such Contributor's copyright
+Contribution, shall be owned by the IETF Intellectual Property Management Corportion.
+Such Contributor shall be deemed to assign to the IETF IPMC such Contributor's copyright
 interest in the collective work constituting
-
 such RFC upon the
 submission of such RFC for publication, and acknowledges that a
-copyright notice acknowledging the IETF Trust's ownership of the
+copyright notice acknowledging the IETF IPMC's ownership of the
 copyright in such RFC will be included in the published RFC.
 
 ## Contributors' Retention of Rights
 
 Although Contributors provide specific rights to the IETF, it is not
 intended that this should deprive them of their right to exploit their
-Contributions.  To underscore this principle, the IETF Trust is
+Contributions.  To underscore this principle, the IETF IPMC is
 directed to issue a license or assurance to Contributors, which
 confirms that they may each make use of their Contributions as
 published in an RFC in any way they wish, subject only to the
@@ -607,7 +585,7 @@ date of publication.
 The IETF reserves the right to refuse to publish Contributions that do
 not include the legends and notices required by the Legend Instructions.
 
-It is important to note that each Contributor grants the IETF Trust
+It is important to note that each Contributor grants the IETF IPMC
 rights pursuant to this document and the policies described herein.  The
 legends and notices included in certain written Contributions such as
 Internet-Drafts do not themselves convey any rights.  They are simply
@@ -621,17 +599,6 @@ standards development organization or is a republication of
 the work of another standards development organization.  Such exceptions
 must be approved on an individual basis by the IAB.
 
-# Changes since RFC 5378
-
-The IETF Intellectual Property Management Corporation and IPMC replace the Virginia IETF Trust as the legal body that holds IETF Intellectual Property.
-
-The IETF Intellectual Propoerty Management and IPM replace the IETF Trust in process descriptions.
-
-The Board of Directors of the IETF Intellectual Property Management Corporation replace the IETF Trustees.
-
-Rights granted to the IPMC have not changed from those granted to the IETF Trust.
-
-Rights granted by the IPMC have not changes from those granted by the IETF Trust.
 
 # Security Considerations
 
@@ -653,4 +620,12 @@ This document has no IANA actions.
 # Acknowledgments
 {:numbered="false"}
 
-TODO acknowledge.
+The editor would like to acknowledge the contribution Scott Bradner and Jorge L. Contreras the editors of RFC5378 and the IETF IPR Working Group that RFC5378.
+
+# Changes since {{RFC5378}}
+
+This document is largely a carry over of {{RFC5378}} with edits to replace mentions of the IETF Trust with the IETF Intellectual Property Management Corporation (IETF IPMC)
+and replace mentions of the IETF Trust website with the IETF IPMC website.
+
+
+

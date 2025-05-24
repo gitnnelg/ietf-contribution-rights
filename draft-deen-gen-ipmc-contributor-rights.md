@@ -8,7 +8,8 @@ updates: 5378
 
 ipr: trust200902
 
-stand_alone: yes 
+stand_alone: yes
+
 pi: [toc, sortrefts, symrefs]
 
 submissionType: IETF
@@ -44,7 +45,7 @@ normative:
 
 informative:
 
-  - BERNE: 
+  - BERNE:
       - target: http://www.wipo.int/treaties/en/ip/
       - title: "Convention for the Protection of Literary and Artistic Work"
 

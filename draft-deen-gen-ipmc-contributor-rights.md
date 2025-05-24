@@ -23,7 +23,6 @@ author:
     email: rgd.ietf@gmail.com
 
 normative:
- -
    RFC5377:
 
 informative:

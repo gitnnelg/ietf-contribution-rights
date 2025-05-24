@@ -76,9 +76,6 @@ as the successor to the IETF Trust.This memo updates {{!RFC5378}}.
 
 --- middle
 
-
-
-
 # Conventions and Definitions
 
 {::boilerplate bcp14-tagged}
@@ -223,15 +220,15 @@ adoption of these procedures.
 
 ## IETF Trust Successor IETF Intellectual Propery Management Corporation
 
-In 2025 the IETF Intellectual Property Management Corporation (IETF IPMC) replaced the IETF Trust providing intellectual property management to the IETF. 
+In 2025 the IETF Intellectual Property Management Corporation (IETF IPMC) replaced the IETF Trust providing intellectual property management to the IETF.
 
 The rights granted and held by the IETF Trust were assigned to the IETF IPMC.   Mentions of the IETF Trust in this memo and prior versions should be understood
 to now refer to the IETF IPMC.
 
 ## Changes from RFC5378
 
-This document does not change the IETF intellectual property rights from what is described in RFC5378 other than to update mentions of the IETF Trust with the IETF Intellectual Property Management Corporation and references and links previously to the IETF Trust website to the IETF IPMC website.
-
+This document does not change the IETF intellectual property rights from what is described in RFC5378 other than to update mentions of the IETF Trust with the IETF 
+Intellectual Property Management Corporation and references and links previously to the IETF Trust website to the IETF IPMC website.
 
 #  Exposition of Why These Procedures Are the Way They Are
 
@@ -252,7 +249,8 @@ It is important to note that under this document, Contributors are
 required to grant certain rights to the IETF IPMC (see Section 5.3.),
 which holds all IETF-related intellectual property on behalf of the IETF
 community.  The IETF IPMC will, in turn, grant a sublicense of these
-rights to all IETF participants for use in the IETF Standards Process (see Section 5.4.).  This sublicense is necessary for the standards
+rights to all IETF participants for use in the IETF Standards Process (see Section 5.4.).  
+This sublicense is necessary for the standards
 development work of the IETF to continue.  In addition, the IETF IPMC
 may grant certain other sublicenses of the rights that it is granted
 under this document.  In granting such other sublicenses, the IETF IPMC
@@ -608,17 +606,13 @@ there are no known issues of security with IETF Contribution rights
 policies.
 
 
-
-
 # IANA Considerations
 
 This document has no IANA actions.
 
 
---- back
-
 # Acknowledgments
-{:numbered="false"}
+
 
 The editor would like to acknowledge the contribution Scott Bradner and Jorge L. Contreras the editors of RFC5378 and the IETF IPR Working Group that RFC5378.
 
@@ -627,5 +621,7 @@ The editor would like to acknowledge the contribution Scott Bradner and Jorge L.
 This document is largely a carry over of {{RFC5378}} with edits to replace mentions of the IETF Trust with the IETF Intellectual Property Management Corporation (IETF IPMC)
 and replace mentions of the IETF Trust website with the IETF IPMC website.
 
+{:numbered="false"}
 
+--- back
 

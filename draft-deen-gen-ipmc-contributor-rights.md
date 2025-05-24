@@ -37,7 +37,6 @@ normative:
    BCP78:
    RFC4748:
    RFC3978:
-   RFC5378:
    RFC5377:
    RFC3979:
    
@@ -205,10 +204,11 @@ adoption of these procedures.
 
 ## IETF Trust Successor IETF Intellectual Propery Management Corporation
 
-In 2025 the IETF Intellectual Property Management Corporation (IETF IPMC) replaced the IETF Trust providing intellectual property management to the IETF.
+In 2025 the IETF Intellectual Property Management Corporation (IETF IPMC) replaced the 
+IETF Trust providing intellectual property management to the IETF.
 
-The rights granted and held by the IETF Trust were assigned to the IETF IPMC.   Mentions of the IETF Trust in this memo and prior versions should be understood
-to now refer to the IETF IPMC.
+The rights granted and held by the IETF Trust were assigned to the IETF IPMC.   Mentions
+of the IETF Trust in this memo and prior versions should be understood to now refer to the IETF IPMC.
 
 ## Changes from RFC5378
 
@@ -586,7 +586,8 @@ must be approved on an individual basis by the IAB.
 
 # Changes since {{RFC5378}}
 
-This document is largely a carry over of {{RFC5378}} with edits to replace mentions of the IETF Trust with the IETF Intellectual Property Management Corporation (IETF IPMC)
+This document is largely a carry over of {{RFC5378}} with edits to replace mentions
+of the IETF Trust with the IETF Intellectual Property Management Corporation (IETF IPMC)
 and replace mentions of the IETF Trust website with the IETF IPMC website.
 
 
@@ -607,8 +608,8 @@ This document has no IANA actions.
 # Acknowledgments
 
 
-The editor would like to acknowledge the contributions of Scott Bradner and Jorge L. Contreras as the editors of RFC5378 and the IETF IPR Working Group that developed RFC5378.
+The editor would like to acknowledge the contributions of Scott Bradner and Jorge L. Contreras
+as the editors of RFC5378 and the IETF IPR Working Group that developed RFC5378.
 
 # Appendenix
-
 {:unnumbered}

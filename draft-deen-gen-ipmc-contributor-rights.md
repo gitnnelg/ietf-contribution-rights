@@ -47,11 +47,11 @@ This document is subject to BCP 78 and the IETF IPM Technical Legal Provisions R
 
 
 normative:
- RFC2026:
- RFC2028:
- RFC3979:
- RFC4371:
- RFC822:
+  RFC2026:
+  RFC2028:
+  RFC3979:
+  RFC4371:
+  
 
 informative:
   RFC3978:
@@ -67,7 +67,7 @@ informative:
 
 --- abstract
 
-The IETF policies about rights in Contributions to the IETF are designed
+The IETF policies about rights in Contributions to the IETF are designed {{!RFC822}} {{RFC821}}
 to ensure that such Contributions can be made available to the IETF and
 Internet communities while permitting the authors to retain as many
 rights as possible.  This memo is an update to {{!RFC5378}} and memo

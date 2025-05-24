@@ -11,7 +11,7 @@ ipr: trust200902
 
 stand_alone: yes
 
-pi: [toc, sort refs, symrefs]
+# pi: [toc, sort refs, symrefs]
 
 submissionType: IETF
 area: "General Area"
@@ -45,7 +45,7 @@ informative:
 
 
 --- abstract
-[RFC821]
+
 The IETF policies about rights in Contributions to the IETF are designed
 to ensure that such Contributions can be made available to the IETF and
 Internet communities while permitting the authors to retain as many
@@ -53,7 +53,7 @@ rights as possible.  This memo is an update to {{RFC5378}} and
 retains the same consistent policies about intellectual property rights in Contributiions to the IETF
 and contains the edits needed to recongize the IETF Intelectual Property Management Corporation
 as the successor to the IETF Trust.  This memo updates {{!RFC5378}}.
-[RFC822]
+
 
 --- middle
 
@@ -606,9 +606,6 @@ This document has no IANA actions.
 The editor would like to acknowledge the contributions of Scott Bradner and Jorge L. Contreras as the editors of RFC5378 and the IETF IPR Working Group that developed RFC5378.
 
 # Appendenix
-
-
-
 
 
 

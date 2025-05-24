@@ -24,7 +24,7 @@ author:
     email: rgd.ietf@gmail.com
 
 normative:
-   RFC5377:
+   RFC5378:
 
 informative:
    BERNE:

@@ -29,7 +29,7 @@ informative:
 venue:
    group: "genarea"
    type: "Working Group"
-   mail: tlp-interest@ietf.org   
+   mail: tlp-interest@ietf.org
 
 --- abstract
  TODO

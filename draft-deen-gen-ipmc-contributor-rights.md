@@ -1,4 +1,4 @@
----
+e---
 title: "Rights Contributors Provide to IETF Intellectual Property Management"
 docname: draft-deen-gen-ipmc-contributor-rights-latest
 abbrev: "IETFIPR"
@@ -6,9 +6,6 @@ category: info
 updates: 5378
 ipr: trust200902
 stand_alone: yes
-
-# pi: [toc, sort refs, symrefs]
-
 submissionType: IETF
 area: "General Area"
 workgroup: gen
@@ -21,6 +18,8 @@ venue:
    arch: "https://mailarchive.ietf.org/arch/browse/tlp-interest/"
    github: "gitnnelg/ietf-contribution-rights"
    latest: "https://gitnnelg.github.io/ieft-contribution-rights/draft-deen-gen-ipmc-contributor-rights.html"
+
+pi: [toc]
 
 author:
  -

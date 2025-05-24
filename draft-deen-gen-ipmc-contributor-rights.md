@@ -47,21 +47,6 @@ informative:
        target: http://www.wipo.int/treaties/en/ip/
        title: "Convention for the Protection of Literary and Artistic Work"
 
-
-
---- abstract
-
-The IETF policies about rights in Contributions to the IETF are designed
-to ensure that such Contributions can be made available to the IETF and
-Internet communities while permitting the authors to retain as many
-rights as possible.  This memo is an update to {{RFC5378}} and
-retains the same consistent policies about intellectual property rights in Contributiions to the IETF
-and contains the edits needed to recongize the IETF Intelectual Property Management Corporation (IPMC)
-as the successor to the IETF Trust.  This memo updates {{RFC5378}}.
-
-
---- middle
-
 --- copyright
 
 Copyright (c) 2025 IETF Intellectual Property Management Corporation and the persons identified as the
@@ -77,6 +62,18 @@ include Simplified BSD License text as described in Section 4.e of
 the Technical Legal Provisions and are provided without warranty as
 described in the Simplified BSD License.
 
+--- abstract
+
+The IETF policies about rights in Contributions to the IETF are designed
+to ensure that such Contributions can be made available to the IETF and
+Internet communities while permitting the authors to retain as many
+rights as possible.  This memo is an update to {{RFC5378}} and
+retains the same consistent policies about intellectual property rights in Contributiions to the IETF
+and contains the edits needed to recongize the IETF Intelectual Property Management Corporation (IPMC)
+as the successor to the IETF Trust.  This memo updates {{RFC5378}}.
+
+
+--- middle
 
 # Conventions and Definitions
 

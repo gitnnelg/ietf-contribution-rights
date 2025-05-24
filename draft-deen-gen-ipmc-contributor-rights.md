@@ -179,7 +179,7 @@ the legitimate rights of others.
 
 Under the laws of most countries and current international treaties (for
 example the "Berne Convention for the Protection of Literary and
-Artistic Work" [BERNE]), authors obtain numerous rights in
+Artistic Work" {{BERNE}}), authors obtain numerous rights in
 the works they produce automatically upon producing them.  These rights
 include copyrights, moral rights, and other rights.  In many cases, if the
 author produces a work within the scope of his or her employment, most

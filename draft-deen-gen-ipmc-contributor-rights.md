@@ -55,7 +55,7 @@ to ensure that such Contributions can be made available to the IETF and
 Internet communities while permitting the authors to retain as many
 rights as possible.  This memo is an update to {{RFC5378}} and
 retains the same consistent policies about intellectual property rights in Contributiions to the IETF
-and contains the edits needed to recongize the IETF Intelectual Property Management Corporation
+and contains the edits needed to recongize the IETF Intelectual Property Management Corporation (IPMC)
 as the successor to the IETF Trust.  This memo updates {{RFC5378}}.
 
 
@@ -176,9 +176,10 @@ author retains them in all cases.)
 
 In order for Contributions to be used within the IETF Standards Process,
 including when they are published as Internet-Drafts or RFCs, certain
-limited rights must be granted to the IETF Trust, which then grants the
+limited rights must be granted to the IETF Intellectual Property Management Corporation (IPMC)
+, which then grants the
 necessary rights to the IETF.  In addition, Contributors must make
-representations to the IETF Trust and the IETF regarding their ability
+representations to the IETF IPMC and the IETF regarding their ability
 to grant these rights.
 
 Section 1 provides definitions used in these policies.  Sections 3 and 4
@@ -586,12 +587,15 @@ standards development organization or is a republication of
 the work of another standards development organization.  Such exceptions
 must be approved on an individual basis by the IAB.
 
-# Changes since {{RFC5378}}
+# Changes since RFC5378
 
-This document is largely a carry over of {{RFC5378}} with edits to replace mentions
-of the IETF Trust with the IETF Intellectual Property Management Corporation (IETF IPMC)
-and replace mentions of the IETF Trust website with the IETF IPMC website.
+This document does not change the intellectual property polices from {{RFC5378}},
+those remain as they previously where.
 
+The edits made are replacing mentions of the IETF Trust with the IETF Intellectual
+Property Management Corporation (IPMC) and mentions of the IETF Trust
+website with the IETF IPMC website as needed to recogninzed the change from the IETF Trust
+to the IETF IPMC.
 
 # Security Considerations
 

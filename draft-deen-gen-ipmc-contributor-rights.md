@@ -1,4 +1,4 @@
-e---
+---
 title: "Rights Contributors Provide to IETF Intellectual Property Management"
 docname: draft-deen-gen-ipmc-contributor-rights-latest
 abbrev: "IETFIPR"

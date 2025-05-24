@@ -6,12 +6,12 @@ category: info
 updates: 5378
 
 docname: draft-deen-gen-ipmc-contributor-rights-latest
-date:
+
 ipr: trust200902
 
 stand_alone: yes
 
-pi: [toc, sortrefts, symrefs]
+pi: [toc, sort refs, symrefs]
 
 submissionType: IETF
 area: "General Area"
@@ -24,21 +24,10 @@ venue:
    mail: "tlp-interest@ietf.org"
    arch: "https://mailarchive.ietf.org/arch/browse/tlp-interest/"
    github: "gitnnelg/ietf-contribution-rights"
-   # latest: "https://gitnnelg.github.io/ieft-contribution-rights/draft-deen-gen-ipmc-contributor-rights.html"
-
-
-# --- Copyright Notice
-#
-# Copyright (c) 2025 IETF Intellectual Property Management Corporation and the persons identified as the document authors.  All rights reserved.
-#
-# This document is subject to BCP 78 and the IETF IPM Technical Legal Provisions Relating to IETF Documents (http://ietf-ipm.org/license-info)
-# in effect on the date of #publication of this document. Please review these documents carefully, as they describe your rights and restrictions
-# with respect to this document.  Code Components extracted from this document must include Revised BSD License text as described in Section 4.e
-# of the Technical Legal Provisions and are provided without warranty as described in the Revised BSD License.
-
+   latest: "https://gitnnelg.github.io/ieft-contribution-rights/draft-deen-gen-ipmc-contributor-rights.html"
 
 author:
--
+ -
     fullname: "Glenn Deen"
     ins: G. Deen
     organization: "Comcast-NBCUniversal"

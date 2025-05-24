@@ -65,7 +65,9 @@ Table of Contents
    1.  Conventions and Definitions
    2.  Security Considerations
    3.  IANA Considerations
-   4.  Normative References
+   4.  References
+     4.1.  Normative References
+     4.2.  Informative References
    Acknowledgments
    Author's Address
 
@@ -85,7 +87,9 @@ Table of Contents
 
    This document has no IANA actions.
 
-4.  Normative References
+4.  References
+
+4.1.  Normative References
 
    [RFC5377]  Halpern, J., Ed., "Advice to the Trustees of the IETF
               Trust on Rights to Be Granted in IETF Documents",
@@ -100,6 +104,11 @@ Table of Contents
    [RFC8174]  Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC
               2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
               May 2017, <https://www.rfc-editor.org/rfc/rfc8174>.
+
+4.2.  Informative References
+
+   [BERNE]    "Convention for the Protection of Literary and Artistic
+              Work", n.d., <http://www.wipo.int/treaties/en/ip/>.
 
 Acknowledgments
 

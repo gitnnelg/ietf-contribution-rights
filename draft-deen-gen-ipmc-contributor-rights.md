@@ -1,5 +1,5 @@
 ---
-title: "Rights Contributors Provide to IETF Intellectual Property Management"
+title: "Rights Contributors Provide to IETF Intellectual Property Management Corporation"
 
 docname: draft-deen-gen-ipmc-contributor-rights-latest
 

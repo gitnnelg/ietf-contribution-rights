@@ -22,18 +22,16 @@ venue:
    github: "gitnnelg/ietf-contribution-rights"
    latest: "https://gitnnelg.github.io/ieft-contribution-rights/draft-deen-gen-ipmc-contributor-rights.html"
 
-pi: [toc, sort refs]
-
 author:
+  -
    fullname: "Glenn Deen"
    ins: G. Deen
    organization: "Comcast-NBCUniversal"
    email: rgd.ietf@gmail.com
    role: editor
 
-
-normative:
-   BCP79:
+normative:  
+ - BCP79:
    BCP78:
    RFC4748:
    RFC3978:
@@ -44,7 +42,8 @@ informative:
    BERNE:
       -target: http://www.wipo.int/treaties/en/ip/
       -title: "Convention for the Protection of Literary and Artistic Work"
-
+      
+pi: [toc, sort refs]
 
 --- abstract
 

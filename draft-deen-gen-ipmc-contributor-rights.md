@@ -30,6 +30,7 @@ author:
     fullname: Glenn Deen
     organization: IETF IPMC
     email: rgd.ietf@gmail.com
+    role: editor
 
 normative:
    BCP79:

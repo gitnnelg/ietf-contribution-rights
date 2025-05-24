@@ -14,22 +14,18 @@ area: "General Area"
 workgroup: gen
 keyword: BCP
 v: 3
-venue:
-   group: "genarea"
-   type: "Working Group"
-   mail: "tlp-interest@ietf.org"
-   arch: "https://mailarchive.ietf.org/arch/browse/tlp-interest/"
-   github: "gitnnelg/ietf-contribution-rights"
-   latest: "https://gitnnelg.github.io/ieft-contribution-rights/draft-deen-gen-ipmc-contributor-rights.html"
+pi: [toc, sort refs]
+
 
 author:
-   fullname: "Glenn Deen"
-   ins: "G. Deen"
-   organization: "Comcast-NBCUniversal"
-   email: rgd.ietf@gmail.com
+  -
+    fullname: "Glenn Deen"
+    organization: "Comcast-NBCUniversal"
+    email: rgd.ietf@gmail.com
 
-normative:  
- - BCP79:
+normative:
+ -
+   BCP79:
    BCP78:
    RFC4748:
    RFC3978:
@@ -37,13 +33,23 @@ normative:
    RFC3979:
 
 informative:
+ -
    BERNE:
       -target: http://www.wipo.int/treaties/en/ip/
       -title: "Convention for the Protection of Literary and Artistic Work"
+
+venue:
+ -
+   group: "genarea"
+   type: "Working Group"
+   mail: tlp-interest@ietf.org
+   arch: https://mailarchive.ietf.org/arch/browse/tlp-interest/
+   github: gitnnelg/ietf-contribution-rights
+   latest: https://gitnnelg.github.io/ieft-contribution-rights/draft-deen-gen-ipmc-contributor-rights.html
       
 
 --- abstract
-
+ -
 The IETF policies about rights in Contributions to the IETF are designed
 to ensure that such Contributions can be made available to the IETF and
 Internet communities while permitting the authors to retain as many
@@ -54,6 +60,7 @@ as the successor to the IETF Trust.  This memo updates {{RFC5378}}.
 
 
 --- middle
+  -
 
 # Conventions and Definitions
 
@@ -599,6 +606,7 @@ policies.
 This document has no IANA actions.
 
 --- back
+ -
 
 # Acknowledgments
 

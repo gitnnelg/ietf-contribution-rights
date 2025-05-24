@@ -2,7 +2,7 @@
 
 
 
-gen                                                              G. Deen
+gen                                                         G. Deen, Ed.
 Internet-Draft                                                 IETF IPMC
 Updates: 5378 (if approved)                                  24 May 2025
 Intended status: Informational                                          
@@ -758,6 +758,6 @@ Appendenix
 
 Author's Address
 
-   Glenn Deen
+   Glenn Deen (editor)
    IETF IPMC
    Email: rgd.ietf@gmail.com

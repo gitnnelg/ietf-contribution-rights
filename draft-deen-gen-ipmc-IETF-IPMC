@@ -1,0 +1,67 @@
+---
+title: Update to Recognize the IETF Intellectual Property Management Corporation successor to IETF Trust
+
+docname: draft-deen-gen-ipmc-IETF-IPMC
+  
+abbrev: "IETFIPMC"
+category: info
+updates: 
+
+stand_alone: yes
+pi: [toc, sort refs]
+
+submissionType: IETF
+area: "General Area"
+workgroup: gen
+keyword: 
+v: 3
+
+
+venue:
+   group: "genarea"
+   type: "Working Group"
+   mail: tlp-interest@ietf.org
+   arch: https://mailarchive.ietf.org/arch/browse/tlp-interest/
+   github: gitnnelg/ietf-contribution-rights
+   latest: https://gitnnelg.github.io/ieft-contribution-rights/draft-deen-gen-ipmc-IETF-IPMC.html
+
+author:
+ -
+    fullname: Glenn Deen
+    organization: IETF IPMC
+    email: rgd.ietf@gmail.com
+
+normative:
+   BCP79:
+   RFC5378:
+
+informative:
+   BERNE:
+       target: http://www.wipo.int/treaties/en/ip/
+       title: "Convention for the Protection of Literary and Artistic Work"
+
+
+--- abstract
+
+This will have something to do with {{BERNE}} stuff and {{RFC5378}} but not {{!RFC822}}
+
+--- middle
+
+# Conventions and Definitions
+
+{::boilerplate bcp14-tagged}
+
+
+
+# Security Considerations
+
+  TODO
+
+# IANA Considerations
+
+  This document has no IANA actions.
+
+--- back
+
+# Acknowledgments
+{:unnumbered}

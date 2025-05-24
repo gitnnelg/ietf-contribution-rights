@@ -7,7 +7,8 @@ updates: 5378
 
 ipr: trust200902
 
-stand_alone: yes pi: [toc, sortrefts, symrefs]
+stand_alone: yes 
+pi: [toc, sortrefts, symrefs]
 
 docname: draft-deen-gen-ipmc-contributor-rights-latest
 
@@ -16,7 +17,8 @@ area: "General Area"
 workgroup: gen
 keyword: BCP
 v: 3
-venue:
+
+venue: 
   group: genarea
   type: Working Group
   mail: tlp-interest@ietf.org
@@ -41,6 +43,7 @@ This document is subject to BCP 78 and the IETF IPM Technical Legal Provisions R
 normative:
 
 informative:
+
   BERNE: 
       target: http://www.wipo.int/treaties/en/ip/
       title: "Convention for the Protection of Literary and Artistic Work"

@@ -10,8 +10,6 @@ updates: 5378
 stand_alone: yes
 pi: [toc, sort refs]
 
-ipr: trust200902
-
 submissionType: IETF
 area: "General Area"
 workgroup: gen
@@ -19,10 +17,18 @@ keyword: BCP
 v: 3
 
 
+venue:
+   group: "genarea"
+   type: "Working Group"
+   mail: tlp-interest@ietf.org
+   arch: https://mailarchive.ietf.org/arch/browse/tlp-interest/
+   github: gitnnelg/ietf-contribution-rights
+   latest: https://gitnnelg.github.io/ieft-contribution-rights/draft-deen-gen-ipmc-contributor-rights.html
+
 author:
-  -
-    fullname: "Glenn Deen"
-    organization: "Comcast-NBCUniversal"
+ -
+    fullname: Glenn Deen
+    organization: Comcast-NBCUniversal
     email: rgd.ietf@gmail.com
 
 normative:

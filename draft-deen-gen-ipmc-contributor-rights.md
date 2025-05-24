@@ -27,6 +27,9 @@ normative:
    RFC5377:
 
 informative:
+   BERNE:
+       target: http://www.wipo.int/treaties/en/ip/
+       title: "Convention for the Protection of Literary and Artistic Work"
 
 venue:
    group: "genarea"

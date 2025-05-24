@@ -28,7 +28,7 @@ venue:
 author:
  -
     fullname: Glenn Deen
-    organization: Comcast-NBCUniversal
+    organization: IETF IPMC
     email: rgd.ietf@gmail.com
 
 normative:

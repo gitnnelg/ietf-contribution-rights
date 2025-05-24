@@ -599,12 +599,10 @@ This document has no IANA actions.
 --- back
 
 # Acknowledgments
-{:unnumbered}
+
 
 The editor would like to acknowledge the contributions of Scott Bradner and Jorge L. Contreras as the editors of RFC5378 and the IETF IPR Working Group that developed RFC5378.
 
 # Appendenix
 
-
-
-
+{:unnumbered}

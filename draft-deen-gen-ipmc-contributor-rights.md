@@ -32,6 +32,7 @@ author:
     email: rgd.ietf@gmail.com
 
 normative:
+   BCP79:
    RFC4748:
    RFC3978:
    RFC5377:

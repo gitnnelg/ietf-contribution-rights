@@ -13,14 +13,10 @@ pi: [toc, sortrefts, symrefs]
 docname: draft-deen-gen-ipmc-contributor-rights-latest
 
 submissionType: IETF
-
-area: general
+area: "General Area"
 workgroup: gen
 keyword: BCP
-
 v: 3
-
-
 venue:
   group: genarea
   type: Working Group
@@ -44,18 +40,11 @@ This document is subject to BCP 78 and the IETF IPM Technical Legal Provisions R
 
 
 normative:
-  RFC2026:
-  RFC2028:
-  RFC3979:
-  RFC4371:
+  
   
 
 informative:
-  RFC3978:
-  RFC4748:
-  RFC4844:
-  RFC5377:
-  RFC5378:
+ 
   BERNE:
       target: http://www.wipo.int/treaties/en/ip//
       title: " Convention for the Protection of Literary and Artistic Work"
@@ -63,7 +52,7 @@ informative:
 
 --- abstract
 
-The IETF policies about rights in Contributions to the IETF are designed [RFC822] {{RFC821}}
+The IETF policies about rights in Contributions to the IETF are designed [RFC822] {{?RFC821}}
 to ensure that such Contributions can be made available to the IETF and
 Internet communities while permitting the authors to retain as many
 rights as possible.  This memo is an update to {{!RFC5378}} and

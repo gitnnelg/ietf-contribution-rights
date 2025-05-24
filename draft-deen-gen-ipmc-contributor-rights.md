@@ -1,7 +1,7 @@
 ---
 
 title: "Rights Contributors Provide to IETF Intellectual Property Management"
-abbrev: "IPMCR"
+abbrev: "IETFIPR"
 category: info
 updates: 5378
 
@@ -36,7 +36,7 @@ author:
  -
     fullname: "Glenn Deen"
     organization: Comcast-NBCUniversal
-    email: glenn.deen@comcast.com
+    email: rgd.ietf@gmail.com
 
 --- Copyright Notice
 
@@ -53,12 +53,12 @@ normative:
  RFC4371:
 
 informative:
-   RFC3978:
-   RFC4748:
-   RFC4844:
-   RFC5377:
-   RFC5378:
-   BERNE:
+  RFC3978:
+  RFC4748:
+  RFC4844:
+  RFC5377:
+  RFC5378:
+  BERNE:
       target: http://www.wipo.int/treaties/en/ip/berne/
       title: "Berne Convention for the Protection of Literary and Artistic Work"
 
@@ -209,7 +209,7 @@ This memo obsoletes RFCs 5378 [RFC5378], 3978 [RFC3978] and 4748 [RFC4748] and, 
 
 This document is not intended as legal advice.  Readers are advised to
 consult their own legal advisors if they would like a legal
-interpretation of their rights or the rights of the IETF Trust {{!RFC4371}}
+interpretation of their rights or the rights of the IETF IPMC {{!RFC4371}}
 in any Contributions they make.
 
 ##  No Retroactive Effect
@@ -597,6 +597,11 @@ standards development organization or is a republication of
 the work of another standards development organization.  Such exceptions
 must be approved on an individual basis by the IAB.
 
+# Changes since {{RFC5378}}
+
+This document is largely a carry over of {{RFC5378}} with edits to replace mentions of the IETF Trust with the IETF Intellectual Property Management Corporation (IETF IPMC)
+and replace mentions of the IETF Trust website with the IETF IPMC website.
+
 
 # Security Considerations
 
@@ -612,16 +617,12 @@ This document has no IANA actions.
 
 
 # Acknowledgments
-
+{:unnumbered}
 
 The editor would like to acknowledge the contribution Scott Bradner and Jorge L. Contreras the editors of RFC5378 and the IETF IPR Working Group that RFC5378.
 
-# Changes since {{RFC5378}}
 
-This document is largely a carry over of {{RFC5378}} with edits to replace mentions of the IETF Trust with the IETF Intellectual Property Management Corporation (IETF IPMC)
-and replace mentions of the IETF Trust website with the IETF IPMC website.
 
-{:numbered="false"}
 
 --- back
 

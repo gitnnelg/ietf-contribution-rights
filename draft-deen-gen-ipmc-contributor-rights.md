@@ -7,7 +7,7 @@ abbrev: "IETFIPR"
 category: info
 updates: 5378
 
-stand_alone: yes
+stand_alone: no
 pi: [toc, sort refs]
 
 submissionType: IETF

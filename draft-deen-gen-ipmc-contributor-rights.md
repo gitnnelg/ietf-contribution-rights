@@ -25,11 +25,11 @@ venue:
 pi: [toc, sort refs]
 
 author:
-  - fullname: "Glenn Deen"
-    ins: G. Deen
-    organization: "Comcast-NBCUniversal"
-    email: rgd.ietf@gmail.com
-    role: editor
+   fullname: "Glenn Deen"
+   ins: G. Deen
+   organization: "Comcast-NBCUniversal"
+   email: rgd.ietf@gmail.com
+   role: editor
 
 
 normative:

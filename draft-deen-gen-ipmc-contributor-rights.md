@@ -36,6 +36,7 @@ normative:
    RFC3978:
    RFC5377:
    RFC3979:
+   RFC5378:
 
 informative:
    BERNE:

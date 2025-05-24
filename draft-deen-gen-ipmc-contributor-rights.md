@@ -1,9 +1,12 @@
 ---
 title: "Rights Contributors Provide to IETF Intellectual Property Management"
+
 docname: draft-deen-gen-ipmc-contributor-rights-latest
+
 abbrev: "IETFIPR"
 category: info
 updates: 5378
+
 ipr: trust200902
 stand_alone: yes
 submissionType: IETF
@@ -19,7 +22,7 @@ venue:
    github: "gitnnelg/ietf-contribution-rights"
    latest: "https://gitnnelg.github.io/ieft-contribution-rights/draft-deen-gen-ipmc-contributor-rights.html"
 
-pi: [toc]
+pi: [toc, sortrefs]
 
 author:
  -
@@ -33,10 +36,11 @@ author:
 
 normative:
 
+
 informative:
-  - BERNE:
-      - target: http://www.wipo.int/treaties/en/ip/
-      - title: "Convention for the Protection of Literary and Artistic Work"
+   BERNE:
+      -target: http://www.wipo.int/treaties/en/ip/
+      -title: "Convention for the Protection of Literary and Artistic Work"
 
 
 --- abstract

@@ -20,7 +20,7 @@ subject to a Simplified BSD License) in Contributions.
 ## Working Group Information
 
 Discussion of this work occurs on the [General Area
-Area mailing list](mailto:)
+ mailing list](mailto:)
 ([archive](),
 [subscribe]()).
 In addition to contributions in GitHub, you are encouraged to participate in
@@ -30,4 +30,4 @@ discussions there.
 technical issues needs to occur on the mailing list.
 
 You might also like to familiarize yourself with other
-[Area documents](https://datatracker.ietf.org/area/gen/documents/).
+[ documents](https://datatracker.ietf.org/area/gen/documents/).

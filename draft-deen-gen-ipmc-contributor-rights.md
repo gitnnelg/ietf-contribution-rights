@@ -39,7 +39,7 @@ normative:
    RFC3978:
    RFC5377:
    RFC3979:
-   
+
 informative:
    BERNE:
       -target: http://www.wipo.int/treaties/en/ip/

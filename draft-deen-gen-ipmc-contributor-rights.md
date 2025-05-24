@@ -227,8 +227,10 @@ to now refer to the IETF IPMC.
 
 ## Changes from RFC5378
 
-This document does not change the IETF intellectual property rights from what is described in RFC5378 other than to update mentions of the IETF Trust with the IETF 
-Intellectual Property Management Corporation and references and links previously to the IETF Trust website to the IETF IPMC website.
+This document does not change the IETF intellectual property rights from what is described in
+{{RFC5378}} other than to update mentions of the IETF Trust with the IETF 
+Intellectual Property Management Corporation and references and links previously 
+to the IETF Trust website to the IETF IPMC website.
 
 #  Exposition of Why These Procedures Are the Way They Are
 
@@ -249,7 +251,8 @@ It is important to note that under this document, Contributors are
 required to grant certain rights to the IETF IPMC (see Section 5.3.),
 which holds all IETF-related intellectual property on behalf of the IETF
 community.  The IETF IPMC will, in turn, grant a sublicense of these
-rights to all IETF participants for use in the IETF Standards Process (see Section 5.4.).  
+rights to all IETF participants for use in the IETF Standards Process
+(see Section 5.4.).
 This sublicense is necessary for the standards
 development work of the IETF to continue.  In addition, the IETF IPMC
 may grant certain other sublicenses of the rights that it is granted

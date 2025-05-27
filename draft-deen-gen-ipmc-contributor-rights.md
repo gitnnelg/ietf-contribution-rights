@@ -68,8 +68,8 @@ The IETF policies about rights in Contributions to the IETF are designed
 to ensure that such Contributions can be made available to the IETF and
 Internet communities while permitting the authors to retain as many
 rights as possible.  This memo is an update to {{RFC5378}} and
-retains the same consistent policies about intellectual property rights in Contributiions to the IETF
-and contains the edits needed to recongize the IETF Intelectual Property Management Corporation (IPMC)
+retains the same consistent policies about intellectual property rights in Contributions to the IETF
+and contains the edits needed to recognize the IETF Intelectual Property Management Corporation (IPMC)
 as the successor to the IETF Trust.  This memo updates {{RFC5378}}.
 
 
@@ -163,10 +163,10 @@ m. "Non-IETF documents": Internet-Drafts that are submitted to the
 RFC Editor independently of the IETF Standards Process.  (See Section
 4.)
 
-n. "IETF Intellectial Property Management": IETF IPM, the role of holding and
+n. "IETF Intellectual Property Management": IETF IPM, the role of holding and
 administering the intellectual property rights for the IETF.
 
-o. "IETF Intellectual Property Managment Corporation": IETF IPMC, A Delaware corporation
+o. "IETF Intellectual Property Management Corporation": IETF IPMC, A Delaware corporation
 established in 2023 as the legal entity supporting the IETF IPM role and the successor entity
 to the IETF Trust.
 
@@ -548,7 +548,7 @@ underlying Contributions as described in Section 5.6 (which ownership is
 qualified by the irrevocable licenses granted under Section 5.3), each
 Contributor hereby acknowledges that the copyright in any RFC in which
 such Contribution is included, other than an RFC that is an RFC Editor
-Contribution, shall be owned by the IETF Intellectual Property Management Corportion.
+Contribution, shall be owned by the IETF Intellectual Property Management Corporation.
 Such Contributor shall be deemed to assign to the IETF IPMC such Contributor's copyright
 interest in the collective work constituting
 such RFC upon the
@@ -603,7 +603,7 @@ must be approved on an individual basis by the IAB.
 # Changes since RFC5378
 
 This document does not change the intellectual property polices from {{RFC5378}},
-those remain as they previously where.
+those remain as they previously were.
 
 The edits made are replacing mentions of the IETF Trust with the IETF Intellectual
 Property Management Corporation (IPMC) and mentions of the IETF Trust

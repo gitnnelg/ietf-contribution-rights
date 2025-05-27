@@ -4,9 +4,9 @@
 
 gen                                                         G. Deen, Ed.
 Internet-Draft                                                 IETF IPMC
-Updates: 5378 (if approved)                                  24 May 2025
+Updates: 5378 (if approved)                                  27 May 2025
 Intended status: Informational                                          
-Expires: 25 November 2025
+Expires: 28 November 2025
 
 
   Rights Contributors Provide to IETF Intellectual Property Management
@@ -20,8 +20,8 @@ Abstract
    the IETF and Internet communities while permitting the authors to
    retain as many rights as possible.  This memo is an update to
    [RFC5378] and retains the same consistent policies about intellectual
-   property rights in Contributiions to the IETF and contains the edits
-   needed to recongize the IETF Intelectual Property Management
+   property rights in Contributions to the IETF and contains the edits
+   needed to recognize the IETF Intelectual Property Management
    Corporation (IPMC) as the successor to the IETF Trust.  This memo
    updates [RFC5378].
 
@@ -58,7 +58,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 25 November 2025.
+   This Internet-Draft will expire on 28 November 2025.
 
 Copyright Notice
 
@@ -213,11 +213,11 @@ Table of Contents
    RFC Editor independently of the IETF Standards Process.  (See
    Section 4.)
 
-   n.  "IETF Intellectial Property Management": IETF IPM, the role of
+   n.  "IETF Intellectual Property Management": IETF IPM, the role of
    holding and administering the intellectual property rights for the
    IETF.
 
-   o.  "IETF Intellectual Property Managment Corporation": IETF IPMC, A
+   o.  "IETF Intellectual Property Management Corporation": IETF IPMC, A
    Delaware corporation established in 2023 as the legal entity
    supporting the IETF IPM role and the successor entity to the IETF
    Trust.
@@ -613,12 +613,12 @@ Table of Contents
    each Contributor hereby acknowledges that the copyright in any RFC in
    which such Contribution is included, other than an RFC that is an RFC
    Editor Contribution, shall be owned by the IETF Intellectual Property
-   Management Corportion.  Such Contributor shall be deemed to assign to
-   the IETF IPMC such Contributor's copyright interest in the collective
-   work constituting such RFC upon the submission of such RFC for
-   publication, and acknowledges that a copyright notice acknowledging
-   the IETF IPMC's ownership of the copyright in such RFC will be
-   included in the published RFC.
+   Management Corporation.  Such Contributor shall be deemed to assign
+   to the IETF IPMC such Contributor's copyright interest in the
+   collective work constituting such RFC upon the submission of such RFC
+   for publication, and acknowledges that a copyright notice
+   acknowledging the IETF IPMC's ownership of the copyright in such RFC
+   will be included in the published RFC.
 
 4.10.  Contributors' Retention of Rights
 
@@ -670,7 +670,7 @@ Table of Contents
 6.  Changes since RFC5378
 
    This document does not change the intellectual property polices from
-   [RFC5378], those remain as they previously where.
+   [RFC5378], those remain as they previously were.
 
    The edits made are replacing mentions of the IETF Trust with the IETF
    Intellectual Property Management Corporation (IPMC) and mentions of

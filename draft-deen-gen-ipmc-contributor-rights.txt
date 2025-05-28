@@ -4,9 +4,9 @@
 
 gen                                                         G. Deen, Ed.
 Internet-Draft                                                 IETF IPMC
-Updates: 5378 (if approved)                                  27 May 2025
+Updates: 5378 (if approved)                                  28 May 2025
 Intended status: Informational                                          
-Expires: 28 November 2025
+Expires: 29 November 2025
 
 
   Rights Contributors Provide to IETF Intellectual Property Management
@@ -58,7 +58,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 28 November 2025.
+   This Internet-Draft will expire on 29 November 2025.
 
 Copyright Notice
 
@@ -89,26 +89,26 @@ Table of Contents
      3.4.  Rights to Use Trademarks
      3.5.  Contributions Not Subject to Copyright
      3.6.  Copyright in RFCs
-     3.7.  Non-IETF Documents
-   4.  Rights in Contributions
-     4.1.  General Policy
-     4.2.  Confidentiality Obligations
-     4.3.  Rights Granted by Contributors to the IETF Intellectual
+   4.  Non-IETF Documents
+   5.  Rights in Contributions
+     5.1.  General Policy
+     5.2.  Confidentiality Obligations
+     5.3.  Rights Granted by Contributors to the IETF Intellectual
             Property Management Corporation
-     4.4.  Sublicenses by the IETF IPMC
-     4.5.  No Patent License
-     4.6.  Representations and Warranties
-     4.7.  No Duty to Publish
-     4.8.  Trademarks
-     4.9.  Copyright in RFCs
-     4.10. Contributors' Retention of Rights
-   5.  Legends, Notices and Other Standardized Text in IETF Documents
-   6.  Changes since RFC5378
-   7.  Security Considerations
-   8.  IANA Considerations
-   9.  References
-     9.1.  Normative References
-     9.2.  Informative References
+     5.4.  Sublicenses by the IETF IPMC
+     5.5.  No Patent License
+     5.6.  Representations and Warranties
+     5.7.  No Duty to Publish
+     5.8.  Trademarks
+     5.9.  Copyright in RFCs
+     5.10. Contributors' Retention of Rights
+   6.  Legends, Notices and Other Standardized Text in IETF Documents
+   7.  Changes since RFC5378
+   8.  Security Considerations
+   9.  IANA Considerations
+   10. References
+     10.1.  Normative References
+     10.2.  Informative References
    Appendix A.  Acknowledgments
    Appendenix
    Author's Address
@@ -457,7 +457,7 @@ Table of Contents
    of an ISOC or IETF Trust copyright notice on all RFC documents since
    the publication of [RFC2026].
 
-3.7.  Non-IETF Documents
+4.  Non-IETF Documents
 
    This document only relates to Contributions made as part of the IETF
    Processes.  Other documents that are referred to as Internet-Drafts
@@ -472,9 +472,9 @@ Table of Contents
    contacted.  See Section 11 for a declaration from the IAB on this
    matter.
 
-4.  Rights in Contributions
+5.  Rights in Contributions
 
-4.1.  General Policy
+5.1.  General Policy
 
    By submission of a Contribution, each person actually submitting the
    Contribution and each named co-Contributor is deemed to have read and
@@ -496,7 +496,7 @@ Table of Contents
    expressly relies on the agreement of each Contributor to the terms
    and conditions set forth in this document.
 
-4.2.  Confidentiality Obligations
+5.2.  Confidentiality Obligations
 
    No information or document that is subject to any requirement of
    confidentiality or any restriction on its dissemination may be
@@ -508,7 +508,7 @@ Table of Contents
    Contribution is confidential or subject to any privilege, can be
    disregarded for all purposes, and will be of no force or effect.
 
-4.3.  Rights Granted by Contributors to the IETF Intellectual Property
+5.3.  Rights Granted by Contributors to the IETF Intellectual Property
       Management Corporation
 
    To the extent that a Contribution or any portion thereof is protected
@@ -539,7 +539,7 @@ Table of Contents
    identifiers used in the Contribution, including TM and (R), will be
    preserved.
 
-4.4.  Sublicenses by the IETF IPMC
+5.4.  Sublicenses by the IETF IPMC
 
    The IETF IPMC will sublicense the rights granted to it under
    Section 5.3 to all IETF participants for use within the IETF
@@ -555,14 +555,14 @@ Table of Contents
    licenses granted to it hereunder.  In doing so, the IETF IPMC will
    comply with the guidance provided under [RFC5377].
 
-4.5.  No Patent License
+5.5.  No Patent License
 
    The licenses granted in Section 5.3 shall not be deemed to grant any
    right under any patent, patent application, or other similar
    intellectual property right disclosed by the Contributor under BCP 79
    [RFC3979] or otherwise.
 
-4.6.  Representations and Warranties
+5.6.  Representations and Warranties
 
    With respect to each Contribution, each Contributor represents that,
    to the best of his or her knowledge and ability:
@@ -588,7 +588,7 @@ Table of Contents
    known to the Contributor are clearly designated as such where
    reasonable.
 
-4.7.  No Duty to Publish
+5.7.  No Duty to Publish
 
    The Contributor, and each named co-Contributor, acknowledges that the
    IETF has no duty to publish or otherwise use or disseminate any
@@ -596,7 +596,7 @@ Table of Contents
    any Contribution that does not comply with the requirements of this
    Section 5.
 
-4.8.  Trademarks
+5.8.  Trademarks
 
    Contributors who claim trademark rights in terms used in their IETF
    Contributions are requested to state specifically what conditions
@@ -605,7 +605,7 @@ Table of Contents
    is done for other intellectual property claims.  (See [RFC3979]
    Section 6.)
 
-4.9.  Copyright in RFCs
+5.9.  Copyright in RFCs
 
    Subject to each Contributor's (or its sponsor's) ownership of its
    underlying Contributions as described in Section 5.6 (which ownership
@@ -620,7 +620,7 @@ Table of Contents
    acknowledging the IETF IPMC's ownership of the copyright in such RFC
    will be included in the published RFC.
 
-4.10.  Contributors' Retention of Rights
+5.10.  Contributors' Retention of Rights
 
    Although Contributors provide specific rights to the IETF, it is not
    intended that this should deprive them of their right to exploit
@@ -632,7 +632,7 @@ Table of Contents
    document as an RFC, or equivalent of an RFC, if it is not a full and
    complete copy or translation of the published RFC.
 
-5.  Legends, Notices and Other Standardized Text in IETF Documents
+6.  Legends, Notices and Other Standardized Text in IETF Documents
 
    The IETF requires that certain standardized text be reproduced
    verbatim in certain IETF Documents (including copies, derivative
@@ -667,7 +667,7 @@ Table of Contents
    organization.  Such exceptions must be approved on an individual
    basis by the IAB.
 
-6.  Changes since RFC5378
+7.  Changes since RFC5378
 
    This document does not change the intellectual property polices from
    [RFC5378], those remain as they previously were.
@@ -677,20 +677,20 @@ Table of Contents
    the IETF Trust website with the IETF IPMC website as needed to
    recogninzed the change from the IETF Trust to the IETF IPMC.
 
-7.  Security Considerations
+8.  Security Considerations
 
    This memo relates to the IETF process, not any particular technology.
    There are security considerations when adopting any technology, but
    there are no known issues of security with IETF Contribution rights
    policies.
 
-8.  IANA Considerations
+9.  IANA Considerations
 
    This document has no IANA actions.
 
-9.  References
+10.  References
 
-9.1.  Normative References
+10.1.  Normative References
 
    [BCP79]    Best Current Practice 79,
               <https://www.rfc-editor.org/info/bcp79>.
@@ -744,7 +744,7 @@ Table of Contents
               RFC 4844, DOI 10.17487/RFC4844, July 2007,
               <https://www.rfc-editor.org/info/rfc4844>.
 
-9.2.  Informative References
+10.2.  Informative References
 
    [BERNE]    "Convention for the Protection of Literary and Artistic
               Work", n.d., <http://www.wipo.int/treaties/en/ip/>.

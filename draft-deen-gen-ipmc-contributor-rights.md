@@ -395,7 +395,7 @@ to the IETF, it actually reflects historical practice and has been
 observed for many years through the inclusion of an ISOC or IETF Trust
 copyright notice on all RFC documents since the publication of {{RFC2026}}.
 
-## Non-IETF Documents
+# Non-IETF Documents
 
 This document only relates to Contributions made as part of the IETF
 Processes.  Other documents that are referred to as Internet-Drafts

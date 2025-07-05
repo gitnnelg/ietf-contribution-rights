@@ -33,7 +33,6 @@ author:
     role: editor
 
 normative:
-   BCP79:
    RFC4748:
    RFC3978:
    RFC5377:
@@ -58,9 +57,9 @@ Provisions Relating to IETF Documents
 publication of this document.  Please review these documents
 carefully, as they describe your rights and restrictions with respect
 to this document.  Code Components extracted from this document must
-include Simplified BSD License text as described in Section 4.e of
+include Revised BSD License text as described in Section 4.e of
 the Technical Legal Provisions and are provided without warranty as
-described in the Simplified BSD License.
+described in the Revised BSD License.
 
 --- abstract
 

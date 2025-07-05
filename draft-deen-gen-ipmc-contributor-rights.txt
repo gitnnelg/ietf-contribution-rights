@@ -4,9 +4,9 @@
 
 gen                                                         G. Deen, Ed.
 Internet-Draft                                                 IETF IPMC
-Updates: 5378 (if approved)                                  28 May 2025
+Updates: 5378 (if approved)                                  5 July 2025
 Intended status: Informational                                          
-Expires: 29 November 2025
+Expires: 6 January 2026
 
 
   Rights Contributors Provide to IETF Intellectual Property Management
@@ -58,7 +58,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 29 November 2025.
+   This Internet-Draft will expire on 6 January 2026.
 
 Copyright Notice
 
@@ -250,13 +250,13 @@ Table of Contents
    Section 1 provides definitions used in these policies.  Sections 3
    and 4 of this document explain the rationale for these provisions.
    Sections 1, 2, 5, and 6 of this document are normative, the other
-   sections are informative.  RFC 3979 [BCP79] [RFC3979] deals with
+   sections are informative.  RFC 3979 BCP79 [RFC3979] deals with
    rights, including possible patent rights, in technologies developed
    or specified as part of the IETF Standards Process.  This document is
    not intended to address those issues.
 
    This memo obsoletes RFCs [RFC5378], [RFC3978] and [RFC4748] and, with
-   RFC 3979 [BCP79] and [RFC5377], replaces Section 10 of RFC 2026
+   RFC 3979 BCP79 and [RFC5377], replaces Section 10 of RFC 2026
    [RFC2026].
 
    This document is not intended as legal advice.  Readers are advised
@@ -691,15 +691,6 @@ Table of Contents
 10.  References
 
 10.1.  Normative References
-
-   [BCP79]    Best Current Practice 79,
-              <https://www.rfc-editor.org/info/bcp79>.
-              At the time of writing, this BCP comprises the following:
-
-              Bradner, S. and J. Contreras, "Intellectual Property
-              Rights in IETF Technology", BCP 79, RFC 8179,
-              DOI 10.17487/RFC8179, May 2017,
-              <https://www.rfc-editor.org/info/rfc8179>.
 
    [RFC4748]  Bradner, S., Ed., "RFC 3978 Update to Recognize the IETF
               Trust", RFC 4748, DOI 10.17487/RFC4748, October 2006,

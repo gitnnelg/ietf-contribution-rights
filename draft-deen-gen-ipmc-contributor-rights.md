@@ -33,7 +33,6 @@ author:
     role: editor
 
 normative:
-   BCP79:
    RFC4748:
    RFC3978:
    RFC5377:
@@ -198,13 +197,13 @@ to grant these rights.
 Section 1 provides definitions used in these policies.  Sections 3 and 4
 of this document explain the rationale for these provisions.  Sections 1,
 2, 5, and 6 of this document are normative, the other sections are
-informative.  RFC 3979 {{BCP79}} {{RFC3979}} deals with rights,
+informative.  RFC 3979 BCP79 {{RFC3979}} deals with rights,
 including possible patent rights, in technologies developed or specified
 as part of the IETF Standards Process.  This document is not intended to
 address those issues.
 
 This memo obsoletes RFCs {{RFC5378}}, {{RFC3978}} and {{RFC4748}} and, with RFC
-3979 {{BCP79}} and {{RFC5377}}, replaces Section 10 of RFC 2026
+3979 BCP79 and {{RFC5377}}, replaces Section 10 of RFC 2026
 {{RFC2026}}.
 
 This document is not intended as legal advice.  Readers are advised to

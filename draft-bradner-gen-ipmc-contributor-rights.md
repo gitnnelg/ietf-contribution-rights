@@ -35,8 +35,8 @@ author:
     fullname: Jorge Contreras
     organization: WilmerHale
     street: 1875 Pennsylvania Avenue NW
-    city: Washington, DC 
-    zip: 20006 
+    city: Washington, DC
+    zip: 20006
     country: USA
     Phone: +1 202 663 6872
     EMail: jorge.contreras@wilmerhale.com

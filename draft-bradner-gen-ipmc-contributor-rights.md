@@ -31,7 +31,7 @@ author:
     organization: Harvard University retired
     email: sob@sobco.com
     role: editor
-
+-
     fullname: Jorge Contreras
     organization: needs-info
     email: needs-info@example.com

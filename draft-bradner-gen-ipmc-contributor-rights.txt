@@ -5,7 +5,7 @@
 gen                                                      S. Bradner, Ed.
 Internet-Draft                                Harvard University retired
 Obsoletes: 5378 (if approved)                          J. Contreras, Ed.
-Intended status: Informational                                needs-info
+Intended status: Informational                                WilmerHale
 Expires: 10 January 2026                                     9 July 2025
 
 
@@ -758,5 +758,7 @@ Authors' Addresses
 
 
    Jorge Contreras (editor)
-   needs-info
-   Email: needs-info@example.com
+   WilmerHale
+   1875 Pennsylvania Avenue NW
+   Washington, DC,
+   United States of America

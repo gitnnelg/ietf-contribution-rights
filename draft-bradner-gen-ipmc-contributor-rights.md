@@ -33,8 +33,6 @@ author:
     role: editor
  -
     fullname: Jorge Contreras
-    organization: needs-info
-    email: needs-info@example.com
     organization: WilmerHale
     street: 1875 Pennsylvania Avenue NW
     city: Washington, DC 

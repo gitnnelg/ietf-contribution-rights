@@ -2,11 +2,11 @@
 
 
 
-gen                                                    J. Contreras, Ed.
-Internet-Draft                                                needs-info
-Obsoletes: 5378 (if approved)                                9 July 2025
-Intended status: Informational                                          
-Expires: 10 January 2026
+gen                                                      S. Bradner, Ed.
+Internet-Draft                                Harvard University retired
+Obsoletes: 5378 (if approved)                          J. Contreras, Ed.
+Intended status: Informational                                needs-info
+Expires: 10 January 2026                                     9 July 2025
 
 
   Rights Contributors Provide to IETF Intellectual Property Management
@@ -111,7 +111,7 @@ Table of Contents
      10.2.  Informative References
    Appendix A.  Acknowledgments
    Appendenix
-   Author's Address
+   Authors' Addresses
 
 1.  Conventions and Definitions
 
@@ -750,7 +750,12 @@ Appendix A.  Acknowledgments
 
 Appendenix
 
-Author's Address
+Authors' Addresses
+
+   Scott Bradner (editor)
+   Harvard University retired
+   Email: sob@sobco.com
+
 
    Jorge Contreras (editor)
    needs-info

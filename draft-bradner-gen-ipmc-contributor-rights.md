@@ -28,7 +28,7 @@ venue:
 author:
  -
     fullname: Scott Bradner
-    organization: Harvard University retireed
+    organization: Harvard University retired
     email: sob@sobco.com
     role: editor
 

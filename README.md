@@ -4,10 +4,10 @@
 
 This is the working area for the individual Internet-Draft, "Rights Contributors Provide to IETF Intellectual Property Management Corporation".
 
-* [Editor's Copy](https://gitnnelg.github.io/ietf-contribution-rights/#go.draft-deen-gen-ipmc-contributor-rights.html)
-* [Datatracker Page](https://datatracker.ietf.org/doc/draft-deen-gen-ipmc-contributor-rights)
-* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-deen-gen-ipmc-contributor-rights)
-* [Compare Editor's Copy to Individual Draft](https://gitnnelg.github.io/ietf-contribution-rights/#go.draft-deen-gen-ipmc-contributor-rights.diff)
+* [Editor's Copy](https://gitnnelg.github.io/ietf-contribution-rights/#go.draft-bradner-gen-ipmc-contributor-rights.html)
+* [Datatracker Page](https://datatracker.ietf.org/doc/draft-bradner-gen-ipmc-contributor-rights)
+* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-bradner-gen-ipmc-contributor-rights)
+* [Compare Editor's Copy to Individual Draft](https://gitnnelg.github.io/ietf-contribution-rights/#go.draft-bradener-gen-ipmc-contributor-rights.diff)
 
 
 ## Contributing

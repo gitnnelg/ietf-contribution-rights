@@ -6,7 +6,7 @@ gen                                                      S. Bradner, Ed.
 Internet-Draft                                Harvard University retired
 Obsoletes: 5378 (if approved)                          J. Contreras, Ed.
 Intended status: Informational                                WilmerHale
-Expires: 10 January 2026                                     9 July 2025
+Expires: 21 January 2026                                    20 July 2025
 
 
   Rights Contributors Provide to IETF Intellectual Property Management
@@ -58,7 +58,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 10 January 2026.
+   This Internet-Draft will expire on 21 January 2026.
 
 Copyright Notice
 
@@ -760,5 +760,6 @@ Authors' Addresses
    Jorge Contreras (editor)
    WilmerHale
    1875 Pennsylvania Avenue NW
-   Washington, DC,
+   Washington, DC,  20006
    United States of America
+   Email: jorge.contreras@wilmerhale.com

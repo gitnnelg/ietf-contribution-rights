@@ -4,9 +4,9 @@
 
 gen                                                         G. Deen, Ed.
 Internet-Draft                                                 IETF IPMC
-Updates: 5378 (if approved)                                  9 July 2025
+Updates: 5378 (if approved)                                 20 July 2025
 Intended status: Informational                                          
-Expires: 10 January 2026
+Expires: 21 January 2026
 
 
   Rights Contributors Provide to IETF Intellectual Property Management
@@ -58,7 +58,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 10 January 2026.
+   This Internet-Draft will expire on 21 January 2026.
 
 Copyright Notice
 

@@ -26,20 +26,20 @@ venue:
    latest: https://gitnnelg.github.io/ieft-contribution-rights/draft-bradner-gen-ipmc-contributor-rights.html
 
 author:
- -
+  -
     fullname: Scott Bradner
-    organization: Harvard University retired
+    org: Harvard University retired
     email: sob@sobco.com
     role: editor
- -
+  -
     fullname: Jorge Contreras
-    organization: WilmerHale
+    org: WilmerHale
     street: 1875 Pennsylvania Avenue NW
     city: Washington, DC
-    zip: 20006
+    code: 20006
     country: USA
     Phone: +1 202 663 6872
-    EMail: jorge.contreras@wilmerhale.com
+    email: jorge.contreras@wilmerhale.com
     role: editor
 
 normative:
@@ -55,21 +55,6 @@ informative:
    BERNE:
        target: http://www.wipo.int/treaties/en/ip/
        title: "Convention for the Protection of Literary and Artistic Work"
-
---- copyright
-
-Copyright (c) 2025 IETF Intellectual Property Management Corporation and the persons identified as the
-document authors.  All rights reserved.
-
-This document is subject to BCP 78 and the IETF IPMC's Techncial Legal
-Provisions Relating to IETF Documents
-(https://ietf-ipmc.org/license-info) in effect on the date of
-publication of this document.  Please review these documents
-carefully, as they describe your rights and restrictions with respect
-to this document.  Code Components extracted from this document must
-include Revised BSD License text as described in Section 4.e of
-the Technical Legal Provisions and are provided without warranty as
-described in the Revised BSD License.
 
 --- abstract
 
